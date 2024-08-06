@@ -1,0 +1,6763 @@
+/* Styles For Returning Back To Bodyguard Jedi Watching Scene */
+
+.entrance-of-about-me {
+
+    position: relative;
+
+    width: 100%;
+    height: 100vh;
+
+    transition: all 1.5s ease-in-out;
+
+}
+
+.entrance-of-about-me::before {
+
+    --television-before-font-color: hsl(40 100% 50%);
+    --television-before-font-size: 4rem;
+    --television-before-transition: all 1.5s ease-in-out;
+    --television-before-transition-delay: 0.3s;
+
+    content: '< BUGATTI ON ITS WAY ... />';
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: var(--television-before-font-color);
+    font-size: var(--television-before-font-size);
+    font-weight: 800;
+    letter-spacing: 0.5rem;
+    text-shadow: 1px 1px 1px hsl(0 0% 15%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%);
+    white-space: nowrap;
+
+    transition: var(--television-before-transition);
+    transition-delay: var(--television-before-transition-delay);
+
+    z-index: 2;
+
+    opacity: 0;
+    visibility: hidden;
+
+}
+
+.please-wait::before {
+    animation: displayingPleaseWaitText 6s ease-in-out alternate;
+    animation-delay: 8.5s;
+}
+
+@keyframes displayingPleaseWaitText {
+
+    0%,
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    50% {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+.entrance-of-about-me::after {
+
+    content: '';
+
+    position: absolute;
+    top: 0;
+    transform: perspective(100em) translate(0px) rotateY(0deg);
+    transform-origin: right;
+    perspective: 100em;
+    transform-style: preserve-3d;
+
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, rgb(2.5, 2.5, 2.5), rgb(2.5, 2.5, 2.5));
+    /* clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%); */
+
+    clip-path: none;
+
+    transition: transform 1.5s ease-in-out;
+    z-index: 1;
+
+}
+
+.cleared::after {
+    transform: perspective(100em) translate(0px) rotateY(-105deg);
+    transition: transform 1.5s ease-in-out;
+    transition-delay: 15s;
+}
+
+.not-cleared::after {
+    transform: perspective(100em) translate(0px) rotateY(105deg);
+    transition: transform 1.5s ease-in-out;
+    transition-delay: 1.5s;
+}
+
+.keys-of-about-me {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.1rem;
+    flex-wrap: wrap;
+
+    position: absolute;
+    top: 4.5rem;
+    right: 0;
+    transform: translate(-50%, -50%);
+
+    width: 3rem;
+    aspect-ratio: 1;
+    padding: 0.5rem;
+    outline: 0;
+    border: 0;
+    background: rgb(8, 8, 8);
+    box-shadow:
+        .1rem .1rem .1rem hsl(40 100% 50%),
+        .1rem .1rem .1rem hsl(40 100% 50%),
+        .1rem .1rem .1rem hsl(40 100% 50%),
+        .1rem .1rem .1rem hsl(40 100% 50%),
+        .1rem .1rem .1rem hsl(40 100% 50%);
+    border-radius: 0.5rem;
+
+    transition: all 1.5s ease-in-out;
+    z-index: 2;
+    pointer-events: all;
+}
+
+.hidden {
+    opacity: 1;
+    visibility: visible;
+    transition: all 6s ease-in-out;
+    cursor: pointer;
+}
+
+.visible {
+    opacity: 1;
+    visibility: visible;
+    transition: all 1.5s ease-in-out;
+}
+
+.key-of-about-me {
+    position: relative;
+    width: 0.5rem;
+    aspect-ratio: 1;
+    border-radius: 1rem;
+    transition: all 0.7s ease-in-out;
+}
+
+.failed {
+    background: linear-gradient(360deg, rgb(12, 12, 12) 0%, rgb(30, 30, 30) 5%, rgb(30, 30, 30) 100%);
+    transition: background 0.7s ease-in-out;
+}
+
+.success {
+    background-color: hsl(40, 100%, 50%);
+    transition: background 1s ease-in-out;
+}
+
+/* Styles For Returning Back To Bodyguard Jedi Watching Scene */
+
+/* Styles For Bodyguard Jedi Watching Scene */
+
+.scene,
+.scene * {
+    transform-style: preserve-3d;
+}
+
+.scene {
+    position: absolute;
+    top: 15rem;
+    left: 35%;
+    width: 70vmin;
+    height: 20vmin;
+    transform: rotateX(-20deg) rotateY(80deg) scale3d(1, 1, 1);
+    z-index: 2;
+}
+
+@keyframes rot {
+    to {
+        transform: rotateX(0deg) rotateY(440deg) scale3d(1, 1, 1);
+    }
+}
+
+.vanished {
+    animation: rot 20s ease-in-out 0.5s infinite alternate, stopRotation 7s ease-in-out 0.5s forwards;
+}
+
+@keyframes stopRotation {
+    100% {
+        transform: rotateX(0deg) rotateY(440deg) scale3d(0, 0, 0);
+    }
+}
+
+@keyframes Vanishing {
+
+    0%,
+    100% {
+        transform: rotateX(-20deg) rotateY(80deg) scale3d(1, 1, 1);
+    }
+
+    50% {
+        transform: rotateX(-20deg) rotateY(80deg) scale3d(0, 0, 0);
+    }
+}
+
+.returned {
+    animation: rot 20s ease-in-out 0.5s infinite alternate, returned 2s ease-out 1s backwards;
+}
+
+@keyframes returned {
+    0% {
+        transform: rotateX(0deg) rotateY(440deg) scale3d(0, 0, 0);
+    }
+}
+
+.scene::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: -100;
+    transform: rotateX(90deg) scale(1);
+}
+
+.scene .cube,
+.scene .cube * {
+    position: absolute;
+    bottom: 0;
+}
+
+.scene #ground {
+    z-index: -50;
+    width: 70vmin;
+    height: 3vmin;
+}
+
+.scene #ground .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene #ground .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene #ground .container .left {
+    width: 70vmin;
+    height: 3vmin;
+    background: linear-gradient(to bottom right, hsl(40 100% 50%), hsl(25 100% 50));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-35vmin);
+}
+
+.scene #ground .container .right {
+    width: 70vmin;
+    height: 3vmin;
+    background: linear-gradient(to bottom right, hsl(40 100% 50%), hsl(25 100% 50));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-35vmin) translateZ(70vmin);
+}
+
+.scene #ground .container .top {
+    background: linear-gradient(360deg, rgb(8, 8, 8) 0%, rgb(9, 9, 9) 5%, rgb(9, 9, 9) 100%);
+    width: 70vmin;
+    height: 70vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(35vmin) translateZ(3vmin);
+}
+
+.scene #ground .container .bottom {
+    background: linear-gradient(360deg, rgb(8, 8, 8) 0%, rgb(9, 9, 9) 5%, rgb(9, 9, 9) 100%);
+    ;
+    width: 70vmin;
+    height: 70vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(35vmin);
+}
+
+.scene #ground .container .front {
+    background: linear-gradient(to bottom right, hsl(40 100% 50%), hsl(25 100% 50));
+    width: 70vmin;
+    height: 3vmin;
+    transform-origin: bottom left;
+    transform: translateZ(35vmin);
+}
+
+.scene #ground .container .back {
+    background: linear-gradient(to bottom right, hsl(40 100% 50%), hsl(25 100% 50));
+    width: 70vmin;
+    height: 3vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(35vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.scene #ground .container .left,
+.scene #ground .container .right,
+.scene #ground .container .front,
+.scene #ground .container .back {
+    background-image: linear-gradient(180deg, #000 0 0% 20%, #000 20% 45%, #000 0 45% 100%);
+}
+
+/* .scene #ground .container .bottom {
+    background-color: #e1b366;
+    filter: drop-shadow(0 0 3.75rem black);
+} */
+
+.scene #ground .container .top {
+    box-shadow: inset 0 0 15vmin hsl(0 0% 5%);
+    background-image: radial-gradient(hsl(0 0% 0%) 8, hsl(0 0% 0%) 0 15vmin),
+        repeating-linear-gradient(180deg, hsl(0 0% 0%) 0 0% 50%, hsl(0 0% 0%) 1 50% 100%),
+        repeating-linear-gradient(90deg, hsl(0 0% 0%) 0 0% 50%, hsl(0 0% 0%) 1 50% 100%);
+    background-size: 100%, 4em 4em, 4em 4em;
+}
+
+.scene .rocks {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    transform: translateY(-3vmin);
+}
+
+.scene .rocks #rock-1 {
+    width: 6vmin;
+    height: 5vmin;
+    transform: translate3d(5vmin, 2vmin, 25vmin) rotateX(15deg) rotateY(15deg);
+}
+
+.scene .rocks #rock-1 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene .rocks #rock-1 .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene .rocks #rock-1 .container .left {
+    width: 5vmin;
+    height: 5vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-2.5vmin);
+}
+
+.scene .rocks #rock-1 .container .right {
+    width: 5vmin;
+    height: 5vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-2.5vmin) translateZ(6vmin);
+}
+
+.scene .rocks #rock-1 .container .top {
+    background-color: hsl(0 0% 20%);
+    width: 6vmin;
+    height: 5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(2.5vmin) translateZ(5vmin);
+}
+
+.scene .rocks #rock-1 .container .bottom {
+    background-color: hsl(0 0% 20%);
+    width: 6vmin;
+    height: 5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(2.5vmin);
+}
+
+.scene .rocks #rock-1 .container .front {
+    background-color: hsl(0 0% 11%);
+    width: 6vmin;
+    height: 5vmin;
+    transform-origin: bottom left;
+    transform: translateZ(2.5vmin);
+}
+
+.scene .rocks #rock-1 .container .back {
+    background-color: hsl(0 0% 11%);
+    width: 6vmin;
+    height: 5vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(2.5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.scene .rocks #rock-2 {
+    width: 8vmin;
+    height: 4vmin;
+    transform: translate3d(15vmin, 1.5vmin, -25vmin) rotateX(-15deg) rotateY(20deg);
+}
+
+.scene .rocks #rock-2 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene .rocks #rock-2 .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene .rocks #rock-2 .container .left {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-4vmin);
+}
+
+.scene .rocks #rock-2 .container .right {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-4vmin) translateZ(8vmin);
+}
+
+.scene .rocks #rock-2 .container .top {
+    background-color: hsl(0 0% 20%);
+    width: 8vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(4vmin) translateZ(4vmin);
+}
+
+.scene .rocks #rock-2 .container .bottom {
+    background-color: hsl(0 0% 20%);
+    width: 8vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(4vmin);
+}
+
+.scene .rocks #rock-2 .container .front {
+    background-color: hsl(0 0% 11%);
+    width: 8vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: translateZ(4vmin);
+}
+
+.scene .rocks #rock-2 .container .back {
+    background-color: hsl(0 0% 11%);
+    width: 8vmin;
+    height: 4vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(4vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.scene .rocks #rock-3 {
+    width: 9vmin;
+    height: 4vmin;
+    transform: translate3d(15vmin, 2vmin, -25vmin) rotateX(5deg) rotateY(-15deg) rotateZ(3deg);
+}
+
+.scene .rocks #rock-3 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene .rocks #rock-3 .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene .rocks #rock-3 .container .left {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-4vmin);
+}
+
+.scene .rocks #rock-3 .container .right {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-4vmin) translateZ(9vmin);
+}
+
+.scene .rocks #rock-3 .container .top {
+    background-color: hsl(0 0% 20%);
+    width: 9vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(4vmin) translateZ(4vmin);
+}
+
+.scene .rocks #rock-3 .container .bottom {
+    background-color: hsl(0 0% 20%);
+    width: 9vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(4vmin);
+}
+
+.scene .rocks #rock-3 .container .front {
+    background-color: hsl(0 0% 11%);
+    width: 9vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: translateZ(4vmin);
+}
+
+.scene .rocks #rock-3 .container .back {
+    background-color: hsl(0 0% 11%);
+    width: 9vmin;
+    height: 4vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(4vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.scene .rocks #rock-4 {
+    width: 9vmin;
+    height: 4vmin;
+    transform: translate3d(45vmin, 1.5vmin, 18vmin) rotateX(15deg) rotateY(45deg);
+}
+
+.scene .rocks #rock-4 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene .rocks #rock-4 .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene .rocks #rock-4 .container .left {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-4vmin);
+}
+
+.scene .rocks #rock-4 .container .right {
+    width: 8vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-4vmin) translateZ(9vmin);
+}
+
+.scene .rocks #rock-4 .container .top {
+    background-color: hsl(0 0% 20%);
+    width: 9vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(4vmin) translateZ(4vmin);
+}
+
+.scene .rocks #rock-4 .container .bottom {
+    background-color: hsl(0 0% 20%);
+    width: 9vmin;
+    height: 8vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(4vmin);
+}
+
+.scene .rocks #rock-4 .container .front {
+    background-color: hsl(0 0% 11%);
+    width: 9vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: translateZ(4vmin);
+}
+
+.scene .rocks #rock-4 .container .back {
+    background-color: hsl(0 0% 11%);
+    width: 9vmin;
+    height: 4vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(4vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.scene .rocks #rock-5 {
+    width: 12vmin;
+    height: 4vmin;
+    transform: translate3d(47vmin, 1.5vmin, -22vmin) rotateX(-5deg) rotateY(65deg);
+}
+
+.scene .rocks #rock-5 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.scene .rocks #rock-5 .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene .rocks #rock-5 .container .left {
+    width: 14vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-7vmin);
+}
+
+.scene .rocks #rock-5 .container .right {
+    width: 14vmin;
+    height: 4vmin;
+    background-color: hsl(0 0% 15%);
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-7vmin) translateZ(12vmin);
+}
+
+.scene .rocks #rock-5 .container .top {
+    background-color: hsl(0 0% 20%);
+    width: 12vmin;
+    height: 14vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(7vmin) translateZ(4vmin);
+}
+
+.scene .rocks #rock-5 .container .bottom {
+    background-color: hsl(0 0% 20%);
+    width: 12vmin;
+    height: 14vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(7vmin);
+}
+
+.scene .rocks #rock-5 .container .front {
+    background-color: hsl(0 0% 11%);
+    width: 12vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: translateZ(7vmin);
+}
+
+.scene .rocks #rock-5 .container .back {
+    background-color: hsl(0 0% 11%);
+    width: 12vmin;
+    height: 4vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(7vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+/* Styles For Bodyguard Jedi Watching Scene */
+
+/* Styles For Bodyguard Jedi */
+
+.my-bodyguard {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    transform: translate3d(30vmin, 0, 0);
+}
+
+.my-bodyguard .body,
+.my-bodyguard .head,
+.my-bodyguard .light-saber,
+.my-bodyguard .hair,
+.my-bodyguard .eyes,
+.my-bodyguard .legs,
+.my-bodyguard .leg-left,
+.my-bodyguard .leg-right,
+.my-bodyguard .arms,
+.my-bodyguard .arm-left,
+.my-bodyguard .arm-right,
+.my-bodyguard .elbow-left {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+}
+
+.my-bodyguard .head {
+    width: 10vmin;
+    height: 8vmin;
+    transform: translate3d(0vmin, -23vmin, 0);
+    animation: rotHead 10s ease-in-out infinite alternate;
+}
+
+@keyframes rotHead {
+
+    20%,
+    25% {
+        transform: translate3d(0vmin, -23vmin, 0) rotateY(20deg) rotateZ(5deg);
+    }
+
+    50%,
+    55% {
+        transform: translate3d(0vmin, -23vmin, 0) rotateY(-20deg) rotateZ(-5deg);
+    }
+
+    70%,
+    75% {
+        transform: translate3d(0vmin, -23vmin, 0) rotateY(15deg) rotateZ(5deg);
+    }
+
+    100% {
+        transform: translate3d(0vmin, -23vmin, 0) rotateY(-10deg) rotateZ(5deg);
+    }
+}
+
+.my-bodyguard .head #head {
+    width: 10vmin;
+    height: 7vmin;
+}
+
+.my-bodyguard .head #head .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head #head .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head #head .container .left {
+    width: 10vmin;
+    height: 7vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5vmin);
+}
+
+.my-bodyguard .head #head .container .right {
+    width: 10vmin;
+    height: 7vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5vmin) translateZ(10vmin);
+}
+
+.my-bodyguard .head #head .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 10vmin;
+    height: 10vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5vmin) translateZ(7vmin);
+}
+
+.my-bodyguard .head #head .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 10vmin;
+    height: 10vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5vmin);
+}
+
+.my-bodyguard .head #head .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 10vmin;
+    height: 7vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5vmin);
+}
+
+.my-bodyguard .head #head .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 10vmin;
+    height: 7vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head #neck {
+    width: 4vmin;
+    height: 2vmin;
+    transform: translate3d(3vmin, 1.5vmin, 0);
+}
+
+.my-bodyguard .head #neck .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head #neck .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head #neck .container .left {
+    width: 4vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-2vmin);
+}
+
+.my-bodyguard .head #neck .container .right {
+    width: 4vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-2vmin) translateZ(4vmin);
+}
+
+.my-bodyguard .head #neck .container .top {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 4vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(2vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head #neck .container .bottom {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 4vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(2vmin);
+}
+
+.my-bodyguard .head #neck .container .front {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(2vmin);
+}
+
+.my-bodyguard .head #neck .container .back {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(2vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head #nose {
+    width: 2vmin;
+    height: 2vmin;
+    transform: translate3d(-1.5vmin, -1.5vmin, 0);
+}
+
+.my-bodyguard .head #nose .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head #nose .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head #nose .container .left {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .head #nose .container .right {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head #nose .container .top {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head #nose .container .bottom {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .head #nose .container .front {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .head #nose .container .back {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .eyes #eye-left {
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform: translate3d(-0.3vmin, -3vmin, 4.25vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .eyes #eye-left .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .eyes #eye-left .container .left {
+    width: 1.75vmin;
+    height: 1.75vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container .right {
+    width: 1.75vmin;
+    height: 1.75vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-0.875vmin) translateZ(1.5vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container .top {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(0.875vmin) translateZ(1.75vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container .bottom {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container .front {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: translateZ(0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-left .container .back {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(0.875vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .eyes #eye-right {
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform: translate3d(-0.3vmin, -3vmin, -4.25vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .eyes #eye-right .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .eyes #eye-right .container .left {
+    width: 1.75vmin;
+    height: 1.75vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container .right {
+    width: 1.75vmin;
+    height: 1.75vmin;
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-0.875vmin) translateZ(1.5vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container .top {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(0.875vmin) translateZ(1.75vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container .bottom {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container .front {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: bottom left;
+    transform: translateZ(0.875vmin);
+}
+
+.my-bodyguard .head .eyes #eye-right .container .back {
+    background: linear-gradient(to bottom right, rgb(25, 25, 25), rgb(12.5, 12.5, 12.5));
+    width: 1.5vmin;
+    height: 1.75vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(0.875vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .hair {
+    transform: translate3d(-0.5vmin, -7vmin, 0vmin);
+}
+
+.my-bodyguard .head .hair #hair-top {
+    width: 11vmin;
+    height: 2vmin;
+}
+
+.my-bodyguard .head .hair #hair-top .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .hair #hair-top .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .hair #hair-top .container .left {
+    width: 11vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-top .container .right {
+    width: 11vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5.5vmin) translateZ(11vmin);
+}
+
+.my-bodyguard .head .hair #hair-top .container .top {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 11vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5.5vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head .hair #hair-top .container .bottom {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 11vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-top .container .front {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 11vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-top .container .back {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 11vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5.5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .hair #hair-center {
+    width: 2vmin;
+    height: 3.1vmin;
+    transform: translate3d(4vmin, 3vmin, 0);
+}
+
+.my-bodyguard .head .hair #hair-center .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .hair #hair-center .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .hair #hair-center .container .left {
+    width: 11vmin;
+    height: 3.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center .container .right {
+    width: 11vmin;
+    height: 3.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5.5vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head .hair #hair-center .container .top {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5.5vmin) translateZ(3.1vmin);
+}
+
+.my-bodyguard .head .hair #hair-center .container .bottom {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center .container .front {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 3.1vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center .container .back {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 3.1vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5.5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .hair #hair-center-back {
+    width: 2vmin;
+    height: 2.1vmin;
+    transform: translate3d(6vmin, 2vmin, 0);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .hair #hair-center-back .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .left {
+    width: 11vmin;
+    height: 2.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .right {
+    width: 11vmin;
+    height: 2.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5.5vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .top {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5.5vmin) translateZ(2.1vmin);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .bottom {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .front {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 2.1vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-center-back .container .back {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 2vmin;
+    height: 2.1vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5.5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .head .hair #hair-back {
+    width: 3vmin;
+    height: 5.1vmin;
+    transform: translate3d(8vmin, 5vmin, 0);
+}
+
+.my-bodyguard .head .hair #hair-back .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .head .hair #hair-back .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .head .hair #hair-back .container .left {
+    width: 11vmin;
+    height: 5.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-back .container .right {
+    width: 11vmin;
+    height: 5.1vmin;
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5.5vmin) translateZ(3vmin);
+}
+
+.my-bodyguard .head .hair #hair-back .container .top {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 3vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5.5vmin) translateZ(5.1vmin);
+}
+
+.my-bodyguard .head .hair #hair-back .container .bottom {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 3vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-back .container .front {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 3vmin;
+    height: 5.1vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5.5vmin);
+}
+
+.my-bodyguard .head .hair #hair-back .container .back {
+    background: linear-gradient(to bottom right, rgb(17.5, 17.5, 17.5), rgb(7.5, 7.5, 7.5));
+    width: 3vmin;
+    height: 5.1vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5.5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .body {
+    width: 9vmin;
+    height: 10vmin;
+    transform: translate3d(0.5vmin, -12vmin, 0);
+}
+
+.my-bodyguard .body #body {
+    width: 9vmin;
+    height: 10vmin;
+}
+
+.my-bodyguard .body #body .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .body #body .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .body #body .container .left {
+    width: 10vmin;
+    height: 10vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-5vmin);
+}
+
+.my-bodyguard .body #body .container .right {
+    width: 10vmin;
+    height: 10vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-5vmin) translateZ(9vmin);
+}
+
+.my-bodyguard .body #body .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 9vmin;
+    height: 10vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(5vmin) translateZ(10vmin);
+}
+
+.my-bodyguard .body #body .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 9vmin;
+    height: 10vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(5vmin);
+}
+
+.my-bodyguard .body #body .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 9vmin;
+    height: 10vmin;
+    transform-origin: bottom left;
+    transform: translateZ(5vmin);
+}
+
+.my-bodyguard .body #body .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 9vmin;
+    height: 10vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(5vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .body #body .container .left {
+    background-image: linear-gradient(90deg, #000 0 0% 40%, #2f2a36 40% 60%, #000 0 60% 100%), linear-gradient(180deg, #f14749 0% 30%, #000 0 60% 100%);
+}
+
+.my-bodyguard .body #body .container .front,
+.my-bodyguard .body #body .container .back,
+.my-bodyguard .body #body .container .right {
+    background-image: linear-gradient(180deg, #f14749 0% 30%, #000 0 60% 100%);
+}
+
+.my-bodyguard .body #body .container .top {
+    background-image: radial-gradient(circle, #000 a 0% 50%, #000 0 100%);
+}
+
+.my-bodyguard .legs .leg-left {
+    width: 2vmin;
+    height: 11vmin;
+    transform: translate3d(4vmin, -5vmin, 2.5vmin) rotateY(10deg);
+}
+
+.my-bodyguard .legs .leg-left #leg-left {
+    width: 2vmin;
+    height: 11vmin;
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .left {
+    width: 2vmin;
+    height: 11vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .right {
+    width: 2vmin;
+    height: 11vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(11vmin);
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .legs .leg-left #leg-left .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .legs .leg-left #foot-left {
+    width: 4vmin;
+    height: 2vmin;
+    transform: translate3d(-2vmin, 2vmin, 0vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .left {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .right {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(4vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .top {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .bottom {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .front {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .legs .leg-left #foot-left .container .back {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .legs .leg-right {
+    width: 2vmin;
+    height: 11vmin;
+    transform: translate3d(4vmin, -5vmin, -2.5vmin) rotateY(-10deg);
+}
+
+.my-bodyguard .legs .leg-right #leg-right {
+    width: 2vmin;
+    height: 11vmin;
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .left {
+    width: 2vmin;
+    height: 11vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .right {
+    width: 2vmin;
+    height: 11vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(11vmin);
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .legs .leg-right #leg-right .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 11vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .legs .leg-right #foot-right {
+    width: 4vmin;
+    height: 2vmin;
+    transform: translate3d(-2vmin, 2vmin, 0vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .left {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .right {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(4vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .top {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .bottom {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .front {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .legs .leg-right #foot-right .container .back {
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 8%));
+    width: 4vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-left {
+    width: 10vmin;
+    height: 10vmin;
+    transform: translate3d(0, -14vmin, 5vmin);
+    animation: rotLeftArm 4s ease-in-out infinite alternate;
+}
+
+@keyframes rotLeftArm {
+
+    0%,
+    20% {
+        transform: translate3d(0, -14vmin, 5vmin) rotateY(5deg) rotateX(5deg) rotateZ(-5deg);
+    }
+
+    100% {
+        transform: translate3d(0, -14vmin, 5vmin) rotateY(10deg) rotateX(10deg) rotateZ(25deg);
+    }
+}
+
+.my-bodyguard .arms .arm-left #arm-left {
+    width: 2vmin;
+    height: 5vmin;
+    transform: translate3d(4vmin, -1vmin, 1vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .left {
+    width: 2vmin;
+    height: 5vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .right {
+    width: 2vmin;
+    height: 5vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(5vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 5vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-left #arm-left .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 5vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left {
+    width: 10vmin;
+    height: 10vmin;
+    transform: translate3d(1vmin, 4vmin, 0vmin) rotateZ(0deg);
+    animation: rotLeftElbow 8s ease-in-out infinite alternate;
+}
+
+@keyframes rotLeftElbow {
+
+    0%,
+    20%,
+    100% {
+        transform: translate3d(1vmin, 4vmin, 0vmin) rotateZ(10deg);
+    }
+
+    40% {
+        transform: translate3d(1vmin, 4vmin, 0vmin) rotateZ(50deg);
+    }
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom {
+    width: 2vmin;
+    height: 4vmin;
+    transform: translate3d(3vmin, -1vmin, 1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .left {
+    width: 2vmin;
+    height: 4vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .right {
+    width: 2vmin;
+    height: 4vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(4vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 4vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #arm-left-bottom .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 4vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left {
+    width: 2vmin;
+    height: 2vmin;
+    transform: translate3d(3vmin, 1vmin, 1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .left {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .right {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-left .elbow-left #hand-left .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-right {
+    width: 10vmin;
+    height: 10vmin;
+    animation: rotRightArm 6s ease-in-out infinite alternate;
+}
+
+@keyframes rotRightArm {
+
+    0%,
+    20% {
+        transform: translate3d(0, -14vmin, -5vmin) rotateY(-10deg) rotateX(-5deg) rotateZ(15deg);
+    }
+
+    45% {
+        transform: translate3d(0, -14vmin, -5vmin) rotateY(-10deg) rotateX(-15deg) rotateZ(85deg);
+    }
+
+    65% {
+        transform: translate3d(0, -14vmin, -5vmin) rotateY(-10deg) rotateX(15deg) rotateZ(65deg);
+    }
+
+    80% {
+        transform: translate3d(0, -14vmin, -5vmin) rotateY(-10deg) rotateX(-20deg) rotateZ(85deg);
+    }
+
+    100% {
+        transform: translate3d(0, -14vmin, -5vmin) rotateY(-10deg) rotateX(-15deg) rotateZ(85deg);
+    }
+}
+
+.my-bodyguard .arms .arm-right #arm-right {
+    width: 2vmin;
+    height: 9vmin;
+    transform: translate3d(4vmin, 3vmin, -1vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .left {
+    width: 2vmin;
+    height: 9vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .right {
+    width: 2vmin;
+    height: 9vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(9vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 9vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-right #arm-right .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 9vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-right #hand-right {
+    width: 2vmin;
+    height: 2vmin;
+    transform: translate3d(4vmin, 5vmin, -1vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .left {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-1vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .right {
+    width: 2vmin;
+    height: 2vmin;
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .top {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(1vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .bottom {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(1vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .front {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: bottom left;
+    transform: translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-right #hand-right .container .back {
+    background: linear-gradient(to bottom right, hsl(34 100% 50%), hsl(26 100% 50%));
+    width: 2vmin;
+    height: 2vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(1vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber {
+    width: 20vmin;
+    height: 1.5vmin;
+    transform-origin: bottom right;
+    transform: translate3d(-17vmin, 4.75vmin, -1vmin) scale3d(0, 1, 1);
+    animation: extendLightsaber 6s ease-in infinite alternate;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .left {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background: red;
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .right {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background: red;
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-0.75vmin) translateZ(20vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .top {
+    background: red;
+    width: 20vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(0.75vmin) translateZ(1.5vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .bottom {
+    background: red;
+    width: 20vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .front {
+    background: red;
+    width: 20vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: translateZ(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .back {
+    background: red;
+    width: 20vmin;
+    height: 1.5vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(0.75vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+@keyframes extendLightsaber {
+
+    0%,
+    35% {
+        transform: translate3d(-17vmin, 4.75vmin, -1vmin) scale3d(0, 1, 1);
+    }
+
+    40%,
+    100% {
+        transform: translate3d(-17vmin, 4.75vmin, -1vmin) scale3d(1, 1, 1);
+    }
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .front,
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .back,
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .top,
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .bottom,
+.my-bodyguard .arms .arm-right .light-saber #light-saber .container .left {
+    animation: glowLightsaber 6s ease-in infinite alternate;
+}
+
+@keyframes glowLightsaber {
+
+    0%,
+    35% {
+        box-shadow: 0 0 1.25vmin 0 #000 0;
+    }
+
+    40%,
+    100% {
+        box-shadow: 0 0 1.25vmin 0 red;
+    }
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster {
+    width: 1vmin;
+    height: 1.5vmin;
+    transform: translate3d(3vmin, 4.75vmin, -1vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .left {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background-color: black;
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .right {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background-color: black;
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-0.75vmin) translateZ(1vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .top {
+    background-color: #0d0d0d;
+    width: 1vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(0.75vmin) translateZ(1.5vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .bottom {
+    background-color: #0d0d0d;
+    width: 1vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .front {
+    background-color: #000;
+    width: 1vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: translateZ(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-bolster .container .back {
+    background-color: #000;
+    width: 1vmin;
+    height: 1.5vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(0.75vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle {
+    width: 2vmin;
+    height: 1.5vmin;
+    transform: translate3d(6vmin, 4.75vmin, -1vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container * {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .left {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    transform-origin: left top;
+    transform: rotateY(-90deg) translateX(-0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .right {
+    width: 1.5vmin;
+    height: 1.5vmin;
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    transform-origin: left top;
+    transform: rotateY(90deg) translateX(-0.75vmin) translateZ(2vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .top {
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    width: 2vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(90deg) translateY(0.75vmin) translateZ(1.5vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .bottom {
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    width: 2vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: rotateX(-90deg) translateY(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .front {
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    width: 2vmin;
+    height: 1.5vmin;
+    transform-origin: bottom left;
+    transform: translateZ(0.75vmin);
+}
+
+.my-bodyguard .arms .arm-right .light-saber #light-saber-handle .container .back {
+    background: linear-gradient(to bottom right, rgb(20, 20, 20), rgb(10, 10, 10));
+    width: 2vmin;
+    height: 1.5vmin;
+    transform-origin: center;
+    transform: rotateY(180deg) translateZ(0.75vmin) rotateX(180deg) rotateZ(180deg);
+}
+
+/* Styles For Bodyguard Jedi */
+
+/* Styles For Button That Let Me Go To My Bugatti Garage */
+
+.the-entrance-of-about-me {
+
+    position: absolute;
+    top: 38rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 8rem;
+    aspect-ratio: 1;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    transition: all 0.7s ease-in-out;
+
+    cursor: pointer;
+
+    opacity: 1;
+    visibility: visible;
+
+    z-index: 2;
+
+}
+
+.button-for-the-entrance-of-about-me {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+    position: relative;
+    margin: 0;
+    outline: 0;
+
+    width: 195px;
+    height: 50%;
+    background: transparent;
+    border: 0;
+    border-radius: 0.5rem;
+
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 1rem;
+    text-shadow: 1px 1px 1px hsl(0 0% 40%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%);
+
+    transition: all 1s ease-in-out;
+    cursor: pointer;
+
+}
+
+.clicked {
+    color: hsl(25 100% 50%);
+    text-shadow: 1px 1px 1px hsl(0 0% 5%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%),
+        .2rem .2rem .2rem hsl(0 0% 8%);
+    transition: color 2s ease-in-out, text-shadow 2s ease-in-out;
+}
+
+.allowing-the-user {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1.5s ease-in-out, visibility 1.5s ease-in-out;
+    transition-delay: 7s;
+}
+
+.not-clicked {
+    color: hsl(0 0% 11%);
+    transition: color 2s ease-in-out;
+}
+
+.not-allowing-the-user {
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
+    transition-delay: 1.5s;
+}
+
+.loading-lights-of-button-for-the-entrance-of-about-me {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+
+    position: absolute;
+    top: 4.5rem;
+    left: 0;
+
+    transition: all 0.7s ease-in-out;
+
+}
+
+.loading-light-of-button-for-the-entrance-of-about-me {
+
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+
+    box-shadow:
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000,
+        0.1rem 0.1rem 0.1rem #000000;
+
+    transition: all 0.7s ease-in-out;
+
+}
+
+.lights-on {
+    --lights-on-background-1: hsl(40 100% 50%);
+    --lights-on-background-2: hsl(35 100% 50%);
+    --lights-on-background-3: hsl(30 100% 50%);
+    --lights-on-background-4: hsl(40 100% 50%);
+    --lights-on-background-5: hsl(35 100% 50%);
+    --lights-on-background-6: hsl(30 100% 50%);
+    --lights-on-background-7: hsl(40 100% 50%);
+    --lights-on-background-8: hsl(35 100% 50%);
+    --lights-on-background-9: hsl(30 100% 50%);
+    --lights-on-background-10: hsl(40 100% 50%);
+    --lights-on-background-11: hsl(35 100% 50%);
+    --lights-on-background-12: hsl(30 100% 50%);
+    transition: background 1s ease-in-out;
+}
+
+.lights-on:nth-child(1) {
+    background: var(--lights-on-background-1);
+    transition-delay: 0.2s;
+}
+
+.lights-on:nth-child(2) {
+    background: var(--lights-on-background-2);
+    transition-delay: 0.4s;
+}
+
+.lights-on:nth-child(3) {
+    background: var(--lights-on-background-3);
+    transition-delay: 0.6s;
+}
+
+.lights-on:nth-child(4) {
+    background: var(--lights-on-background-4);
+    transition-delay: 0.8s;
+}
+
+.lights-on:nth-child(5) {
+    background: var(--lights-on-background-5);
+    transition-delay: 1s;
+}
+
+.lights-on:nth-child(6) {
+    background: var(--lights-on-background-6);
+    transition-delay: 1.2s;
+}
+
+.lights-on:nth-child(7) {
+    background: var(--lights-on-background-7);
+    transition-delay: 1.4s;
+}
+
+.lights-on:nth-child(8) {
+    background: var(--lights-on-background-8);
+    transition-delay: 1.6s;
+}
+
+.lights-on:nth-child(9) {
+    background: var(--lights-on-background-9);
+    transition-delay: 1.8s;
+}
+
+.lights-on:nth-child(10) {
+    background: var(--lights-on-background-10);
+    transition-delay: 2s;
+}
+
+.lights-on:nth-child(11) {
+    background: var(--lights-on-background-11);
+    transition-delay: 2.2s;
+}
+
+.lights-on:nth-child(12) {
+    background: var(--lights-on-background-12);
+    transition-delay: 2.4s;
+}
+
+:is(.lights-off) {
+    background: rgb(29, 29, 29);
+    transition: background 1s ease-in-out;
+}
+
+.hover-area {
+    width: 195px;
+    height: 75px;
+    display: grid;
+    grid-template-columns: repeat(13, 15px);
+    grid-template-rows: repeat(5, 15px);
+    position: absolute;
+    top: 0;
+    left: 0;
+    perspective: 500px;
+}
+
+.hover-area .hover-directions {
+    z-index: 1;
+}
+
+.hover-area .hover-directions:nth-child(1):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(2):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(3):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(4):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(5):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(6):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(-15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(7):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(0deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(8):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(9):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(10):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(11):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(12):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(13):hover~.icon-about-me {
+    transform: scale(1) rotateX(45deg) rotateY(90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(14):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(15):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(16):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(17):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(18):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(19):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(-15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(20):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(0deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(21):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(22):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(23):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(24):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(25):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(26):hover~.icon-about-me {
+    transform: scale(1) rotateX(22.5deg) rotateY(90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(27):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(28):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(29):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(30):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(31):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(32):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(-15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(33):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(0deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(34):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(35):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(36):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(37):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(38):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(39):hover~.icon-about-me {
+    transform: scale(1) rotateX(0deg) rotateY(90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(40):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(41):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(42):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(43):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(44):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(45):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(-15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(46):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(0deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(47):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(48):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(49):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(50):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(51):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(52):hover~.icon-about-me {
+    transform: scale(1) rotateX(-22.5deg) rotateY(90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(53):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(54):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(55):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(56):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(57):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(58):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(-15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(59):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(0deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(60):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(15deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(61):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(30deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(62):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(45deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(63):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(60deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(64):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(75deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .hover-directions:nth-child(65):hover~.icon-about-me {
+    transform: scale(1) rotateX(-45deg) rotateY(90deg);
+    transition: transform 380ms cubic-bezier(0.18, 0.89, 0.32, 1.28);
+}
+
+.hover-area .icon-about-me {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: 91px;
+    left: calc(50% - 40px);
+    transform-origin: bottom center;
+    transform-style: preserve-3d;
+    transform: scale(0);
+    transition: transform 225ms ease-out;
+}
+
+.hover-area .icon-about-me .roof {
+    height: 90px;
+    position: absolute;
+    left: 50%;
+    transform-origin: bottom center;
+    transform-style: preserve-3d;
+    transform: translateZ(45px) rotateX(90deg);
+}
+
+.hover-area .icon-about-me .roof.roof.roof-1 {
+    top: -90px;
+}
+
+.hover-area .icon-about-me .roof.roof.roof-2 {
+    top: -110px;
+}
+
+.hover-area .icon-about-me .roof:before,
+.hover-area .icon-about-me .roof:after {
+    content: '';
+    background: linear-gradient(to bottom right, hsl(30 100% 50%), hsl(22 100% 50));
+    width: 70px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    transform-style: preserve-3d;
+}
+
+.hover-area .icon-about-me .roof:before {
+    right: 0;
+    transform-origin: bottom right;
+    transform: rotateY(-37.5deg);
+    filter: brightness(105%);
+}
+
+.hover-area .icon-about-me .roof:after {
+    left: 0;
+    transform-origin: bottom left;
+    transform: rotateY(37.5deg);
+    filter: brightness(95%);
+}
+
+.hover-area .icon-about-me .roof-design {
+    height: 20px;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform-style: preserve-3d;
+}
+
+.hover-area .icon-about-me .roof-design.roof-design-1 {
+    transform: translateZ(45px);
+}
+
+.hover-area .icon-about-me .roof-design.roof-design-2 {
+    transform: translateZ(-45px);
+}
+
+.hover-area .icon-about-me .roof-design:before,
+.hover-area .icon-about-me .roof-design:after {
+    content: '';
+    background: linear-gradient(to bottom right, hsl(22 100% 50%), hsl(30 100% 50));
+    width: 55px;
+    height: 20px;
+    position: absolute;
+    top: 0;
+    transform-style: preserve-3d;
+}
+
+.hover-area .icon-about-me .roof-design:before {
+    right: 0;
+    transform-origin: bottom right;
+    transform: skewY(-37.5deg);
+}
+
+.hover-area .icon-about-me .roof-design:after {
+    left: 0;
+    transform-origin: bottom left;
+    transform: skewY(37.5deg);
+}
+
+.hover-area .icon-about-me .roof-side {
+    background: linear-gradient(to bottom right, hsl(22 100% 50%), hsl(30 100% 50));
+    width: 90px;
+    height: 20px;
+    position: absolute;
+    top: 22px;
+    transform-origin: top left;
+    transform-style: preserve-3d;
+    transform: translateZ(45px) rotateY(90deg);
+}
+
+.hover-area .icon-about-me .roof-side.roof-side-1 {
+    left: -15px;
+    filter: brightness(105%);
+}
+
+.hover-area .icon-about-me .roof-side.roof-side-2 {
+    right: -105px;
+    filter: brightness(95%);
+}
+
+.hover-area .icon-about-me .roof-wall {
+    border-top: none;
+    border-bottom: solid 31px hsl(0 0% 7%);
+    border-left: solid 40px transparent;
+    border-right: solid 40px transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform-style: preserve-3d;
+}
+
+.hover-area .icon-about-me .roof-wall.roof-wall-1 {
+    transform: translateZ(40px);
+}
+
+.hover-area .icon-about-me .roof-wall.roof-wall-2 {
+    transform: translateZ(-40px);
+}
+
+.hover-area .icon-about-me .wall {
+    background-color: hsl(0 0% 7%);
+    width: 81px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform-origin: center;
+    transform-style: preserve-3d;
+}
+
+.hover-area .icon-about-me .wall.wall-1 {
+    transform: translateZ(40px);
+}
+
+.hover-area .icon-about-me .wall.wall-2 {
+    transform: translateZ(-40px);
+    filter: brightness(90%);
+}
+
+.hover-area .icon-about-me .wall.wall-3 {
+    transform: rotateY(90deg) translateZ(-40px);
+    filter: brightness(105%);
+}
+
+.hover-area .icon-about-me .wall.wall-4 {
+    transform: rotateY(90deg) translateZ(40px);
+    filter: brightness(95%);
+}
+
+.hover-area .icon-about-me .door {
+    background: linear-gradient(to bottom right, hsl(22 100% 50%), hsl(30 100% 50));
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 15px);
+    transform-style: preserve-3d;
+    transform: translateZ(40px);
+}
+
+.hover-area .icon-about-me .floor {
+    background: linear-gradient(360deg, hsl(0 0% 4%) 0%, hsl(0 0% 6%) 5%, hsl(0 0% 8%) 100%);
+    width: 81px;
+    height: 81px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    transform: rotateX(90deg) translateZ(-40px) scale(1.01);
+    filter: brightness(90%);
+}
+
+/* Styles For Button That Let Me Go To My Bugatti Garage */
+
+/* Styles For My Bugatti Garage */
+
+.bugatti-text {
+    position: absolute;
+    top: -2rem;
+    left: 16rem;
+    transition: all 1.5s ease-in-out;
+    opacity: 0;
+}
+
+.bugatti-text-appeared {
+    opacity: 1;
+    visibility: visible;
+    transition: all 1.5s ease-in-out;
+}
+
+.bugatti-text-disappeared {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 13s ease-in-out;
+}
+
+h1 {
+    color: #ffc600;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 600;
+    text-shadow: 0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20),
+        0rem 0rem .11rem rgb(20, 20, 20);
+    transform: matrix(6, 0, 0, 5, 0, 125);
+    transition: all 1.5s ease-in-out;
+    z-index: 1;
+}
+
+.bugatti-garage {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    transition: all 1.5s ease-in-out;
+    /* z-index: 2; */
+}
+
+.bugatti-garage-appeared {
+    opacity: 1;
+    visibility: visible;
+    transition: all 1.5s ease-in-out;
+    transition-delay: 16.3s;
+}
+
+.bugatti-garage-disappeared {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-garage::before,
+.bugatti-garage::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    height: 100%;
+    transition: all 3s ease-in-out;
+    z-index: 1;
+}
+
+.bugatti-garage::before {
+    left: 0;
+    width: 50%;
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+    linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+}
+
+.bugatti-garage::after {
+    right: 0;
+    width: 50%;
+    background: linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%)),
+        linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%));
+}
+
+.open-the-garage-from-left::before {
+    width: 0;
+    transform-origin: left;
+    transition: width 5s ease-in-out;
+    transition-delay: 1s;
+}
+
+.open-the-garage-from-right::after {
+    width: 0;
+    transform-origin: right;
+    transition: width 5s ease-in-out;
+    transition-delay: 1s;
+}
+
+.close-the-garage-from-left::before {
+    width: 50%;
+    transform-origin: left;
+    transition: width 5s ease-in-out;
+    transition-delay: 1s;
+}
+
+.close-the-garage-from-right::after {
+    width: 50%;
+    transform-origin: right;
+    transition: width 5s ease-in-out;
+    transition-delay: 1s;
+}
+
+.bugatti-garage-open-system {
+    position: absolute;
+    top: 91.25%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-20rem);
+    width: 8rem;
+    height: 2.5rem;
+    background: linear-gradient(0deg, rgb(09, 09, 09) 1%, rgba(1, 1, 1, 0.975) 5%, rgba(1, 1, 1, 0.975) 100%);
+    border-radius: 25%;
+    transition:
+        background 6s ease-in-out,
+        transform 5s ease-in-out;
+    transition-delay: 1s;
+    z-index: 3;
+    opacity: 0.9;
+}
+
+.moving-system-to-top {
+    transform: translateX(-50%) translateY(-42.1rem);
+    background: linear-gradient(0deg, rgb(10, 10, 10) 1%, rgba(6, 6, 6, 0.975) 5%, rgba(6, 6, 6, 0.975) 100%);
+    transition:
+        background 6s ease-in-out,
+        transform 5s ease-in-out;
+    transition-delay: 1s;
+    opacity: 1;
+    z-index: 2;
+}
+
+.bugatti-garage-open-system::before,
+.bugatti-garage-open-system::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    transition: all 1.5s ease-in-out;
+}
+
+.bugatti-garage-open-system::before {
+    left: 1rem;
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+.light-on::before {
+    background-color: hsl(40, 100%, 50%);
+    transition: background 1s ease-in-out;
+}
+
+.light-off::before {
+    background: #101010;
+    transition: background 1s ease-in-out;
+}
+
+.bugatti-garage-open-system::after {
+    right: -0.5rem;
+    width: 1.85rem;
+    height: 1.85rem;
+    background: linear-gradient(360deg, rgb(5, 5, 5) 0%, rgb(10, 10, 10) 5%, rgb(10, 10, 10) 100%);
+}
+
+.bugatti-garage-open-system-lock {
+    position: absolute;
+    bottom: -3.5%;
+    left: 55.25%;
+    transform: translateX(-50%) translateY(2.1rem) rotate(-55deg);
+    transform-style: preserve-3d;
+    width: 6rem;
+    height: 6rem;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    transition:
+        background-image 0.2s ease-in-out,
+        transform 3s ease-in-out;
+    transition-delay: 1s;
+    cursor: pointer;
+    z-index: 2;
+    /* opacity: 0.8; */
+}
+
+.lock {
+    transform: translateX(-50%) translateY(-20.5rem) rotate(-55deg);
+    background-image: url(../../assets/garage-lock.png);
+    transition: transform 5s ease-in-out;
+    transition-delay: 1s;
+}
+
+.unlock {
+    transform: translateX(-50%) translateY(-42.4rem) rotate(-55deg);
+    background-image: url(../../assets/garage-unlock.png);
+    transition: transform 5s ease-in-out;
+    transition-delay: 1s;
+    opacity: 1;
+}
+
+.bugatti-garage-close-system {
+    position: absolute;
+    top: 3.5rem;
+    transform: translateX(-50%);
+    width: 4rem;
+    aspect-ratio: 1;
+    background: linear-gradient(360deg, rgb(8, 8, 8) 0%, rgb(9, 9, 9) 5%, rgb(9, 9, 9) 100%);
+    border-radius: 25%;
+    transition: all 1.5s ease-in-out;
+    cursor: pointer;
+}
+
+.bugatti-garage-close-system:nth-child(1) {
+    left: 4rem;
+}
+
+.bugatti-garage-close-system:nth-child(2) {
+    right: 0.5rem;
+}
+
+.bugatti-garage-close-system-lights {
+    position: relative;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.30rem;
+    padding: 0.25rem;
+    transition: all 1.5s ease-in-out;
+}
+
+.bugatti-garage-close-system-light {
+    width: 0.70rem;
+    aspect-ratio: 1;
+    background: #FF6C00;
+    box-shadow:
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20),
+        0 0 .2rem rgb(20, 20, 20);
+    border-radius: 50%;
+    transition: all 1.5s ease-in-out;
+}
+
+/* Styles For My Bugatti Garage */
+
+/* Styles For My Bugatti */
+
+.bugatti {
+
+    --the-bugatti_transition: all 1.5s ease-in-out;
+
+    position: relative;
+    margin-top: -26%;
+    transform: translateX(5rem) scale(1.2);
+    transition: var(--the-bugatti_transition);
+    /* animation: letsDriveBugatti 5s linear 2s forwards, letsParkBugatti 7.15s ease-in-out backwards; */
+    z-index: -1;
+}
+
+.drive-bugatti {
+    animation: letsDriveBugatti 5s linear 2s forwards;
+}
+
+@keyframes letsDriveBugatti {
+    0% {
+        transform: translateX(0) scale(1.2);
+    }
+
+    100% {
+        transform: translateX(-100rem) scale(1.2);
+    }
+}
+
+.park-bugatti {
+    animation: letsParkBugatti 7.15s linear backwards;
+    animation-delay: 5s;
+}
+
+@keyframes letsParkBugatti {
+    0% {
+        transform: translateX(100rem) scale(1.2);
+    }
+
+    100% {
+        transform: translateX(0) scale(1.2);
+    }
+}
+
+.bugatti-arrived {
+    opacity: 1;
+    visibility: visible;
+    transition: z-index 13s ease-in-out;
+    z-index: 2;
+}
+
+.bugatti-not-arrived {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 4.5s ease-in-out;
+    /* z-index: -1; */
+}
+
+.bugatti::before,
+.bugatti::after {
+
+    content: '';
+
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 45rem;
+    background-color: hsl(40, 100%, 50%);
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti::before {
+    left: 35%;
+    width: 45rem;
+    clip-path: polygon(48% 46%, 45% 46%, 2% 65%, 2.25% 75%, 0 79.25%, 30% 83%, 100% 83%, 100% 34.5%, 75% 34.5%);
+    z-index: 1;
+}
+
+.bugatti::after {
+    right: 4.7%;
+    width: 30rem;
+    clip-path: polygon(24% 83.02%, 50% 83.02%, 75% 83%, 90% 80.5%, 100% 70%, 100% 43%, 70% 37.25%, 24% 34.45%);
+}
+
+.bugatti-spoiler-area {
+
+    position: absolute;
+    top: 0.6rem;
+    left: 71.2%;
+    transform: translate(-50%, -50%);
+
+    width: 18.3rem;
+    height: 12.92rem;
+    background-color: hsl(0 0% 0%);
+    clip-path: polygon(50.75% 54%, 100% 54%, 100% 18%, 50.75% 0);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-spoiler {
+
+    position: absolute;
+    top: -4.5rem;
+    left: 76%;
+    transform: translate(-50%, -50%) scaleY(0.1);
+    transform-style: preserve-3d;
+
+    width: 10rem;
+    height: 40rem;
+    background-color: hsl(0 0% 100%);
+    clip-path: polygon(60% 70%, 60% 70%, 100% 70%, 85% 20%, 45% 20%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 4;
+}
+
+.bugatti-spoiler-inside {
+
+    position: relative;
+    top: 49.2%;
+    left: 54.5%;
+    transform: translate(-50%, -50%);
+
+    width: 8rem;
+    height: 23rem;
+    background-color: hsl(0 0% 4%);
+    clip-path: polygon(60% 70%, 60% 70%, 100% 70%, 85% 20%, 45% 20%);
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-spoiler-inside-led-1,
+.bugatti-spoiler-inside-led-2 {
+
+    position: absolute;
+    top: 23%;
+    transform: translate(-50%, -50%);
+
+    width: 0.5rem;
+    height: 1.15rem;
+    background-color: hsl(251, 100%, 50%);
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-spoiler-inside-led-1 {
+    top: 23%;
+    left: 66%;
+}
+
+.bugatti-spoiler-inside-led-2 {
+    top: 67%;
+    left: 78%;
+}
+
+.bugatti-spoiler-left-holder,
+.bugatti-spoiler-right-holder {
+
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+    width: 4.75rem;
+    height: 2.5rem;
+    background-color: hsl(251, 100%, 50%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+}
+
+.bugatti-spoiler-left-holder {
+    top: -4.6rem;
+    left: 78.1%;
+    clip-path: polygon(43% 75%, 1% 54%, 7% 18.25%, 50% 16%);
+}
+
+.bugatti-spoiler-right-holder {
+    top: -1.7rem;
+    left: 79.75%;
+    clip-path: polygon(43% 54%, 1% 54%, 7% 18.25%, 50% 16%);
+}
+
+.bugatti-spoiler-right-holder::before,
+.bugatti-spoiler-right-holder::after {
+
+    content: '';
+    position: absolute;
+    transform: translate(-50%, -50%);
+
+    aspect-ratio: 1;
+    background-color: hsl(0 0% 0%);
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-spoiler-right-holder::before {
+    top: 35.4%;
+    left: 15%;
+    width: 0.4rem;
+    clip-path: circle(50% at 50% 50%);
+    border-radius: 50%;
+}
+
+.bugatti-spoiler-right-holder::after {
+    top: 35.2%;
+    left: 32%;
+    width: 0.6rem;
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-gas-cap {
+
+    position: absolute;
+    top: 4rem;
+    left: 75%;
+    transform: translate(-50%, -50%);
+
+    width: 3rem;
+    aspect-ratio: 1;
+
+    background: hsl(0 0% 0%);
+    border-radius: 0.25rem;
+
+    transition: all 1.5s ease-in-out;
+    cursor: pointer;
+    pointer-events: none;
+    z-index: 1;
+
+}
+
+.bugatti-gas-cap::before {
+
+    content: '';
+
+    display: block;
+    position: relative;
+    transform-origin: left;
+    perspective: 100em;
+
+    width: 100%;
+    height: 100%;
+
+    background: hsl(0 0% 0%);
+    border-radius: 0.25rem;
+
+    transition: all 1.5s ease-in-out;
+    cursor: pointer;
+    pointer-events: all;
+
+}
+
+.bugatti-gas-cap-opened::before {
+    transform: perspective(100em) translate(0px) rotateY(-105deg);
+    transition: transform 1.5s ease-in-out;
+    transition-delay: 0.1s;
+}
+
+.bugatti-gas-cap::after {
+
+    content: '';
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 10rem;
+    aspect-ratio: 1;
+
+    background-image: url(../../assets/bugatti-gas-cap-key.png);
+    background-size: 3.5rem;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    transition: all 1.5s ease-in-out;
+    pointer-events: none;
+    z-index: -1;
+
+}
+
+.bugatti-first-black-area {
+
+    position: absolute;
+    top: 1.1rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 45rem;
+    height: 30rem;
+    background: linear-gradient(360deg, hsl(0 0% 0%) 50%, hsl(0 0% 0%) 5%, hsl(0 0% 0%) 100%);
+    clip-path: polygon(51% 56%, 60% 56%, 60.4% 54.35%, 97.5% 49.98%, 97.5% 26.9%, 68% 23%, 41.75% 23%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+}
+
+.bugatti-line-above-window-1,
+.bugatti-line-above-window-2,
+.bugatti-line-above-window-3,
+.bugatti-line-above-window-4,
+.bugatti-line-above-window-5,
+.bugatti-line-above-window-6,
+.bugatti-line-above-window-7 {
+    position: absolute;
+    height: 0.2rem;
+    background-color: hsl(0 0% 0%);
+    transition: var(--the-bugatti_transition);
+    z-index: 3;
+}
+
+.bugatti-line-above-window-1 {
+    top: -0.6rem;
+    left: 41.1%;
+    transform: translate(-50%, -50%) rotate(-24.5deg);
+    width: 14.35rem;
+}
+
+.bugatti-line-above-window-2 {
+    top: -3.6rem;
+    left: 64%;
+    transform: translate(-50%, -50%) rotate(180deg);
+    width: 32.67rem;
+}
+
+.bugatti-line-above-window-3 {
+    top: -5.34rem;
+    left: 47.05%;
+    transform: translate(-50%, -50%) rotate(-108deg);
+    width: 3.75rem;
+}
+
+.bugatti-line-above-window-4 {
+    top: -4.45rem;
+    left: 40.25%;
+    transform: translate(-50%, -50%) rotate(-22.6deg);
+    width: 13.54rem;
+}
+
+.bugatti-line-above-window-5 {
+    top: -7.05rem;
+    left: 52.1%;
+    transform: translate(-50%, -50%) rotate(180.2deg);
+    width: 11.25rem;
+}
+
+.bugatti-line-above-window-6 {
+    top: -6.53rem;
+    left: 64.65%;
+    transform: translate(-50%, -50%) rotate(184.5deg);
+    width: 13.9rem;
+}
+
+.bugatti-line-above-window-7 {
+    top: -4.81rem;
+    left: 75.85%;
+    transform: translate(-50%, -50%) rotate(194.65deg);
+    width: 9.25rem;
+}
+
+.bugatti-roof-scoope {
+
+    position: absolute;
+    top: -3.75rem;
+    left: 63.29%;
+    transform: translate(-50%, -50%) rotate(1deg) scaleY(0.2);
+
+    transform-style: preserve-3d;
+
+    width: 34.2rem;
+    height: 60rem;
+    background-color: hsl(0 0% 0%);
+
+    clip-path: polygon(32.3% 23%, 0.8% 24.3%, 4% 53.5%, 100% 48%, 100% 100%, 100% 48%, 74.1% 30%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 3;
+}
+
+.bugatti-roof-scoope-inside {
+    position: relative;
+    top: 48%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    transform-style: preserve-3d;
+    width: 32rem;
+    height: 48.5rem;
+    background-color: hsl(40 100% 50%);
+    clip-path: polygon(35% 23%, 1% 24.3%, 4% 53.5%, 100% 48.5%, 100% 100%, 100% 48.5%, 76.75% 31%);
+    transition: background-color var(--car-transition), width var(--car-transition);
+    z-index: 2;
+}
+
+.bugatti-upper-part-inside {
+
+    position: relative;
+    top: 44.35%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+
+    width: 2.5rem;
+    height: 4.25rem;
+
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+        linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+    border: 2px solid hsl(0 0% 0%);
+
+    box-shadow: 
+        inset -0.25rem 0.01rem 0rem 0.4rem hsl(0 0% 0%);
+
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-upper-part-inside-holes {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    gap: 0.2rem;
+
+    position: relative;
+    top: 1.6rem;
+    left: 10rem;
+    transform: translate(-50%, -50%);
+
+    height: 4rem;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-upper-part-inside-hole {
+
+    position: relative;
+
+    width: 2.5rem;
+    height: 1rem;
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+        linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+    border: 2px solid hsl(0 0% 0%);
+
+    box-shadow: 
+        inset 0 0.5rem 0.25rem hsl(0 0% 0%);
+
+    border-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+}
+
+.car-wiper::before,
+.car-wiper::after {
+    content: '';
+    position: absolute;
+    transform-style: preserve-3d;
+    margin-left: 0.2rem;
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+        linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+    transition: var(--car-transition);
+    z-index: 3;
+}
+
+.car-wiper::before {
+    top: 0.25rem;
+    left: 33.75%;
+    transform: translate(-44%, -50%) rotate(90deg) scaleX(0.9) scaleX(0.88);
+    transform-style: preserve-3d;
+    width: 4rem;
+    height: 2.25rem;
+    clip-path: polygon(18% 50%, 12% 56%, 0 55%, 0 63%, 12% 62%, 18% 70%, 100% 68%, 100% 87%, 100% 16%, 100% 20%, 100% 48%, 28% 50%);
+    transition: var(--car-transition);
+}
+
+.car-wiper::after {
+    top: 0.1rem;
+    left: 34.34%;
+    transform: translate(-48%, -50%) rotate(106deg) scaleX(0.88);
+    width: 4.5rem;
+    height: 8rem;
+    clip-path: polygon(75% 58%, 70% 60%, 37% 61%, 16% 63%, 50% 63%, 37% 69%, 70% 65%, 75% 67%, 100% 60%, 100% 19%, 100% 1%, 100% 60%);
+    transition: var(--car-transition);
+}
+
+.bugatti-front-mirror {
+
+    position: absolute;
+    top: 3.56rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 46rem;
+    height: 30rem;
+    background: linear-gradient(360deg, hsl(0 0% 3%) 50%, hsl(0 0% 2.75%) 5%, hsl(0 0% 3.5%) 100%);
+    clip-path: polygon(15.4% 32%, 12.4% 32%, 0 40.45%, 0 45.99%, 16.8% 45.99%, 46% 26%, 42% 14.65%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-second-black-area {
+
+    position: absolute;
+    top: 7.5rem;
+    left: 48.2%;
+    transform: translate(-50%, -50%) rotate(-1.14deg);
+
+    width: 70rem;
+    height: 21.25rem;
+    background-color: hsl(0 0% 0%);
+    clip-path: polygon(23% 24.28%, 20% 16%, 0.3% 42.3%, 0.3% 55%, 0.15% 55.2%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-second-black-area-2 {
+
+    position: absolute;
+    top: 3rem;
+    left: 37%;
+    transform: translate(-50%, -50%) rotate(-1.14deg);
+
+    width: 20rem;
+    height: 20rem;
+    background-color: hsl(0 0% 0%);
+    clip-path: polygon(29.4% 25%, 0 37.65%, 0 46.35%, 38.5% 46.6%, 39.25% 24.25%, 36% 25%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-window {
+
+    position: absolute;
+    top: 3.75rem;
+    left: 45.95%;
+    transform: translate(-50%, -50%);
+
+    width: 46rem;
+    height: 28rem;
+    background: linear-gradient(360deg, hsl(0 0% 3%) 50%, hsl(0 0% 2.75%) 5%, hsl(0 0% 3.5%) 100%);
+    clip-path: polygon(70% 23.5%, 54.5% 23.5%, 25% 45%, 70% 45%, 70% 35%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+}
+
+.bugatti-side-mirror,
+.bugatti-side-mirror-inside {
+    border-radius: 0.5rem;
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+}
+
+.bugatti-side-mirror {
+
+    position: absolute;
+    top: 2.4rem;
+    left: 38%;
+    transform: translate(-50%, -50%) rotate(15deg);
+
+    width: 4.25rem;
+    height: 1.5rem;
+
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+        linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+    box-shadow:
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5),
+        0 0 0.1rem rgba(0, 0, 0, 0.5);
+
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.bugatti-side-mirror-inside {
+
+    position: relative;
+    top: 1.75rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 4.3rem;
+    height: 1rem;
+    background-color: hsl(0 0% 0%);
+
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-side-mirror-inside::after {
+
+    content: '';
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 3.25rem;
+    height: 0.3rem;
+    background: linear-gradient(to bottom right, hsl(0 0% 15%), hsl(0 0% 10%)),
+        linear-gradient(to bottom right, hsl(0 0% 25%), hsl(0 0% 20%));
+    box-shadow: inset 0 0.25rem 1rem hsl(0 0% 5%);
+
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: all 0.2s ease-in-out;
+}
+
+.bugatti-side-mirror-inside-light-on::after {
+    background: linear-gradient(to bottom right, hsl(0 0% 250%), hsl(0 0% 350%)),
+        linear-gradient(to bottom right, hsl(0 0% 400%), hsl(0 0% 350%));
+    box-shadow: 0 0 1rem hsl(0 0% 225%);
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-side-mirror-inside-cameras {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    gap: 0.25rem;
+
+    position: relative;
+    top: -0.8rem;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    width: 3rem;
+    height: 1.8rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-side-mirror-inside-camera {
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-1.4rem, -0.71rem);
+
+    width: 0.75rem;
+    aspect-ratio: 1;
+    background-color: hsl(0 0% 0%);
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+    cursor: pointer;
+}
+
+.bugatti-side-mirror-inside-camera::after {
+
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 0.4rem;
+    aspect-ratio: 1;
+    /* background-color: hsl(40, 100%, 50%); */
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-side-mirror-inside-camera-on {
+    background: linear-gradient(to bottom right, hsl(0 0% 250%), hsl(0 0% 350%)),
+        linear-gradient(to bottom right, hsl(0 0% 400%), hsl(0 0% 350%));
+    box-shadow: 0 0 0.4rem hsl(0 0% 225%);
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-third-black-area {
+    position: absolute;
+    top: 28.9rem;
+    left: 43.47%;
+    transform: translate(-50%, -50%) rotate(28deg);
+
+    width: 70rem;
+    height: 20rem;
+    background-color: hsl(0, 0%, 0%);
+    clip-path: polygon(22.28% 24.28%, 22% 16.3%, 0.3% 44%, 0.3% 55%, 0.3% 53.7%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-door {
+
+    position: absolute;
+    top: 5.76rem;
+    left: 37.65%;
+    transform: translate(-50%, -50%);
+
+    width: 35rem;
+    height: 23rem;
+
+    background-color: hsl(40, 100%, 50%);
+
+    clip-path: polygon(41% 35%, 41% 35%, 41% 50%, 50% 85%, 80% 85%, 90% 70%, 100% 50%, 100% 35%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-door-left-line-1,
+.bugatti-door-left-line-2,
+.bugatti-door-right-line-1,
+.bugatti-door-right-line-2,
+.bugatti-door-right-line-3 {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 0.2rem;
+    background-color: hsl(0, 0%, 0%);
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-door-left-line-1 {
+    top: 43%;
+    left: 41.57%;
+    height: 3.7rem;
+    /* background-color: hsl(0 0% 100%); */
+}
+
+.bugatti-door-left-line-2 {
+    transform: translate(-50%, -50%) rotate(-21.5deg);
+    top: 68.3%;
+    left: 45.95%;
+    height: 8.6rem;
+}
+
+.bugatti-door-right-line-1 {
+    top: 42.3%;
+    left: 99.83%;
+    height: 3.5rem;
+}
+
+.bugatti-door-right-line-2 {
+    transform: translate(-50%, -50%) rotate(37.4deg);
+    top: 59.05%;
+    left: 95.37%;
+    height: 6.1rem;
+}
+
+.bugatti-door-right-line-3 {
+    transform: translate(-50%, -50%) rotate(45.45deg);
+    top: 77%;
+    left: 84.85%;
+    height: 5.15rem;
+}
+
+.bugatti-door-handle-holder {
+
+    position: relative;
+    top: 50%;
+    left: 89%;
+    transform: translate(-50%, -50%);
+
+    width: 4rem;
+    height: 2rem;
+    background-color: hsl(0 0% 0%);
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+    cursor: pointer;
+}
+
+.bugatti-door-handle {
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 2.5rem;
+    height: 0.4rem;
+    background-color: hsl(0 0% 8%);
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-door-handle::before,
+.bugatti-door-handle::after {
+
+    content: '';
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 1.4rem;
+    height: 0.7rem;
+    background-color: hsl(0 0% 8%);
+    border-radius: 0.5rem;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-door-handle::before {
+    left: -0.6rem;
+}
+
+.bugatti-door-handle::after {
+    right: -2rem;
+}
+
+.bugatti-fourth-black-area {
+    position: absolute;
+    top: 14.34rem;
+    left: 49.25%;
+    transform: translate(-50%, -50%);
+    width: 31.3rem;
+    height: 1.1rem;
+    background-color: hsl(0, 0%, 0%);
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-fifth-black-area {
+    position: absolute;
+    top: 13.79rem;
+    left: 74.75%;
+    transform: translate(-50%, -50%) rotate(-14.2deg);
+    width: 5rem;
+    height: 1.1rem;
+    background-color: hsl(0, 0%, 0%);
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-sixth-black-area {
+    position: absolute;
+    top: 11.095rem;
+    left: 78.35%;
+    transform: translate(-50%, -50%) rotate(-57.6deg);
+    width: 5.55rem;
+    height: 1.1rem;
+    background-color: hsl(0, 0%, 0%);
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-seventh-black-area {
+    position: absolute;
+    top: 5.08rem;
+    left: 79.79%;
+    transform: translate(-50%, -50%) rotate(90deg);
+    width: 8.01rem;
+    height: 1.1rem;
+    background-color: hsl(0, 0%, 0%);
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-logo {
+    position: absolute;
+    top: 5.8rem;
+    left: 14.75%;
+    transform: translate(-50%, -50%) rotate(-23deg) scaleY(0.2);
+    transform-style: preserve-3d;
+    width: 1.5rem;
+    aspect-ratio: 1;
+    background-color: hsl(40 100% 50%);
+    transition: var(--the-bugatti_transition);
+    cursor: pointer;
+}
+
+.bugatti-owner-name {
+    position: absolute;
+    top: 5.75rem;
+    left: 14.7%;
+    transform: translate(-50%, -50%) rotate(-23deg) scaleY(0.2);
+    transition: var(--the-bugatti_transition);
+    z-index: -1;
+}
+
+.bugatti-owner-name::before {
+    content: '';
+    position: absolute;
+    top: 3.7rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.5rem;
+    height: 8rem;
+    background-color: hsl(0 0% 0%);
+    transition: top 3s ease-in-out;
+}
+
+.bugatti-owner-name-before::before {
+    top: -4.4rem;
+    transition: top 3s ease-in-out;
+}
+
+.bugatti-owner-name::after {
+    content: 'B';
+    position: absolute;
+    top: 3.7rem;
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(-50%, -50%) scaleX(0.3);
+    transform-style: preserve-3d;
+    width: 5rem;
+    height: 8rem;
+    background-color: hsl(0 0% 0%);
+    color: hsl(40, 100%, 50%);
+    font-size: 5rem;
+    font-weight: bold;
+    transition: top 3s ease-in-out;
+}
+
+.bugatti-owner-name-after::after {
+    top: -10.5rem;
+    transition: top 3s ease-in-out;
+}
+
+.bugatti-front-light {
+
+    position: absolute;
+    top: 6.96rem;
+    left: 11.5%;
+    transform: translate(-50%, -50%) rotate(-21deg);
+
+    width: 25rem;
+    height: 18rem;
+    clip-path: polygon(100% 0, 100% 0, 100% 0, 95% 50%, 71.75% 51.25%, 70% 60.15%,
+            95% 58.5%, 95% 50%, 100% 0, 100% 0, 100% 0, 100% 0);
+
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-back-light {
+
+    position: absolute;
+    top: 5rem;
+    left: 80.25%;
+    transform: translate(-50%, -50%) rotate(90deg) scaleY(0.2);
+
+    transform-style: preserve-3d;
+
+    width: 6rem;
+    height: 4rem;
+
+    background-color: hsl(40, 100%, 50%);
+
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: -1;
+}
+
+.bugatti-front-light-bulbs,
+.bugatti-back-light-bulbs {
+
+    position: absolute;
+    top: 4.8rem;
+    left: 20%;
+    transform: translate(-50%, -50%) rotate(-23.5deg);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+
+    width: 5.7rem;
+    height: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.bugatti-front-light-bulb,
+.bugatti-back-light-bulb {
+    position: relative;
+    top: 50%;
+    left: 6.25%;
+    transform: translate(-50%, -50%);
+    width: 1.1rem;
+    aspect-ratio: 1;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 5%)),
+        linear-gradient(to bottom right, hsl(0 0% 20%), hsl(0 0% 15%));
+    box-shadow: inset 0 0.25rem 1rem hsl(0 0% 3.5%);
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+}
+
+.bugatti-back-light-bulbs {
+    top: 5.2rem;
+    left: 80.9%;
+    transform: translate(-50%, -50%) rotate(90deg) scaleY(0.4);
+    transform-style: preserve-3d;
+    width: 5.9rem;
+    height: 1.25rem;
+}
+
+.bugatti-back-light-bulb {
+    width: 1.15rem;
+    aspect-ratio: 1;
+    background-color: hsl(0 0% 0%);
+}
+
+.bugatti-front-light-bulb-on,
+.bugatti-back-light-bulb-on {
+    background: linear-gradient(to bottom right, hsl(0 0% 250%), hsl(0 0% 350%)),
+        linear-gradient(to bottom right, hsl(0 0% 400%), hsl(0 0% 350%));
+    box-shadow: 0 0 0.5rem hsl(0 0% 225%);
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-front-light-indicator {
+
+    position: absolute;
+    top: 5.75rem;
+    left: 20.2%;
+    transform: translate(-50%, -50%) rotate(-23.5deg);
+
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    width: 5.25rem;
+    height: 0.2rem;
+    background: linear-gradient(to bottom right, hsl(0 0% 10%), hsl(0 0% 5%)),
+        linear-gradient(to bottom right, hsl(0 0% 20%), hsl(0 0% 15%));
+    box-shadow: inset 0 0.25rem 1rem hsl(0 0% 3.5%);
+    z-index: 1;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.bugatti-front-light-indicator-on {
+    background: linear-gradient(to bottom right, hsl(0 0% 250%), hsl(0 0% 350%)),
+        linear-gradient(to bottom right, hsl(0 0% 400%), hsl(0 0% 350%));
+    box-shadow: 0 0.25rem 1rem hsl(0 0% 225%);
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-front-light-bulbs-smoke-area,
+.bugatti-bumper-light-bulbs-smoke-area,
+.bugatti-exhaust-pipes-smoke-area-1,
+.bugatti-exhaust-pipes-smoke-area-2,
+.bugatti-exhaust-pipes-smoke-area-3,
+.bugatti-exhaust-pipes-smoke-area-4,
+.bugatti-exhaust-pipes-smoke-area-5,
+.bugatti-exhaust-pipes-smoke-area-6,
+.bugatti-back-light-bulbs-smoke-area-1,
+.bugatti-back-light-bulbs-smoke-area-2,
+.bugatti-back-light-bulbs-smoke-area-3,
+.bugatti-back-light-bulbs-smoke-area-4,
+.bugatti-back-light-bulbs-smoke-area-5,
+.bugatti-back-light-bulbs-smoke-area-6 {
+    position: absolute;
+    transform-style: preserve-3d;
+    z-index: 1;
+}
+
+.bugatti-back-light-bulbs-smoke-area-1,
+.bugatti-back-light-bulbs-smoke-area-2,
+.bugatti-back-light-bulbs-smoke-area-3,
+.bugatti-back-light-bulbs-smoke-area-4,
+.bugatti-back-light-bulbs-smoke-area-5,
+.bugatti-back-light-bulbs-smoke-area-6 {
+    top: 5.75rem;
+    margin-left: 37.25rem;
+    transform: translate(-50%, -50%) scaleY(0.1);
+}
+
+.bugatti-back-light-bulbs-smoke-area-1 {
+    left: 46.5%;
+}
+
+.bugatti-back-light-bulbs-smoke-area-2 {
+    left: 48%;
+}
+
+.bugatti-back-light-bulbs-smoke-area-3 {
+    left: 49.4%;
+}
+
+.bugatti-back-light-bulbs-smoke-area-4 {
+    left: 50.9%;
+}
+
+.bugatti-back-light-bulbs-smoke-area-5 {
+    left: 52.5%;
+}
+
+.bugatti-back-light-bulbs-smoke-area-6 {
+    left: 53.75%;
+}
+
+.bugatti-front-light-bulbs-smoke-area {
+    top: 8rem;
+    left: 12%;
+    transform: translate(-50%, -50%) rotate(-35deg) scaleY(0.1);
+}
+
+.bugatti-bumper-light-bulbs-smoke-area {
+    top: 11.75rem;
+    left: 7.5%;
+    transform: translate(-50%, -50%) rotate(-15deg) scaleY(0.1);
+}
+
+.bugatti-exhaust-pipes-smoke-area-1,
+.bugatti-exhaust-pipes-smoke-area-2,
+.bugatti-exhaust-pipes-smoke-area-3,
+.bugatti-exhaust-pipes-smoke-area-4,
+.bugatti-exhaust-pipes-smoke-area-5,
+.bugatti-exhaust-pipes-smoke-area-6 {
+    top: 19.65rem;
+    transform: translate(-50%, -50%) rotate(0deg) scaleY(0.1);
+}
+
+.bugatti-exhaust-pipes-smoke-area-1 {
+    left: 46.5%;
+}
+
+.bugatti-exhaust-pipes-smoke-area-2 {
+    left: 48%;
+}
+
+.bugatti-exhaust-pipes-smoke-area-3 {
+    left: 49.4%;
+}
+
+.bugatti-exhaust-pipes-smoke-area-4 {
+    left: 50.9%;
+}
+
+.bugatti-exhaust-pipes-smoke-area-5 {
+    left: 52.3%;
+}
+
+.bugatti-exhaust-pipes-smoke-area-6 {
+    left: 53.75%;
+}
+
+.bugatti-front-light-bulbs-smokes,
+.bugatti-bumper-light-bulbs-smokes,
+.bugatti-exhaust-pipes-smokes-1,
+.bugatti-exhaust-pipes-smokes-2,
+.bugatti-exhaust-pipes-smokes-3,
+.bugatti-exhaust-pipes-smokes-4,
+.bugatti-exhaust-pipes-smokes-5,
+.bugatti-exhaust-pipes-smokes-6,
+.bugatti-back-light-bulbs-smokes-1,
+.bugatti-back-light-bulbs-smokes-2,
+.bugatti-back-light-bulbs-smokes-3,
+.bugatti-back-light-bulbs-smokes-4,
+.bugatti-back-light-bulbs-smokes-5,
+.bugatti-back-light-bulbs-smokes-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: rotate(75deg);
+    width: 1rem;
+    height: 4rem;
+    transition: all 1.5s ease-in-out;
+}
+
+.bugatti-back-light-bulbs-smokes-1,
+.bugatti-back-light-bulbs-smokes-2,
+.bugatti-back-light-bulbs-smokes-3,
+.bugatti-back-light-bulbs-smokes-4,
+.bugatti-back-light-bulbs-smokes-5,
+.bugatti-back-light-bulbs-smokes-6 {
+    transform: translate(-50%, -50%) rotate(90deg) scaleY(0.1) scaleX(2);
+    height: 10rem;
+}
+
+.bugatti-exhaust-pipes-smokes-1,
+.bugatti-exhaust-pipes-smokes-2,
+.bugatti-exhaust-pipes-smokes-3,
+.bugatti-exhaust-pipes-smokes-4,
+.bugatti-exhaust-pipes-smokes-5,
+.bugatti-exhaust-pipes-smokes-6 {
+    transform: translate(-50%, -50%) rotate(90deg) scaleY(0.1) scaleX(2);
+    height: 10rem;
+}
+
+.bugatti-front-light-bulbs-smoke,
+.bugatti-bumper-light-bulbs-smoke,
+.bugatti-exhaust-pipes-smoke-1,
+.bugatti-exhaust-pipes-smoke-2,
+.bugatti-exhaust-pipes-smoke-3,
+.bugatti-exhaust-pipes-smoke-4,
+.bugatti-exhaust-pipes-smoke-5,
+.bugatti-exhaust-pipes-smoke-6,
+.bugatti-back-light-bulbs-smokes-1,
+.bugatti-back-light-bulbs-smokes-2,
+.bugatti-back-light-bulbs-smokes-3,
+.bugatti-back-light-bulbs-smokes-4,
+.bugatti-back-light-bulbs-smokes-5,
+.bugatti-back-light-bulbs-smokes-6 {
+    position: relative;
+    width: 1.25rem;
+    height: 5rem;
+    box-shadow:
+        -14rem 1rem 10rem hsl(0 0% 200%),
+        9rem 1rem 8rem hsl(0 0% 250%),
+        -12rem 1rem 7.75rem hsl(0 0% 100%),
+        4rem 1rem 7.5rem hsl(0 0% 100%),
+        -14rem 1rem 9rem hsl(0 0% 200%),
+        9rem -1rem 7rem hsl(0 0% 250%),
+        -14rem 1rem 8rem hsl(0 0% 100%),
+        -5rem 1rem 8rem hsl(0 0% 250%),
+        -2rem 1rem 7rem hsl(0 0% 100%),
+        -10rem 0.5rem 7rem hsl(0 0% 100%),
+        -8rem 1rem 7rem hsl(0 0% 100%),
+        7rem -1rem 8rem hsl(0 0% 200%),
+        -4rem -1rem 7rem hsl(0 0% 250%),
+        -1rem -1rem 7rem hsl(0 0% 100%),
+        -5rem -1rem 7rem hsl(0 0% 100%),
+        3rem -1rem 8rem hsl(0 0% 200%);
+    transition: opacity 0.2s ease-in-out;
+    opacity: 0;
+}
+
+.bugatti-back-light-bulbs-smokes-1,
+.bugatti-back-light-bulbs-smokes-2,
+.bugatti-back-light-bulbs-smokes-3,
+.bugatti-back-light-bulbs-smokes-4,
+.bugatti-back-light-bulbs-smokes-5,
+.bugatti-back-light-bulbs-smokes-6 {
+    box-shadow:
+        -14rem 20rem 10rem hsl(0 0% 200%),
+        -14rem 20rem 10rem hsl(0 0% 200%),
+        -10rem 20rem 10rem hsl(0 0% 200%),
+        -8rem 25rem 10rem hsl(0 0% 200%),
+        -14rem 20rem 10rem hsl(0 0% 200%),
+        -10rem 20rem 10rem hsl(0 0% 200%),
+        -6rem 25rem 10rem hsl(0 0% 200%),
+        -4rem 25rem 10rem hsl(0 0% 200%),
+        0rem 20rem 10rem hsl(0 0% 200%),
+        0rem 20rem 10rem hsl(0 0% 200%),
+        -4rem 25rem 10rem hsl(0 0% 200%),
+        0rem 20rem 10rem hsl(0 0% 200%),
+        0rem 20rem 10rem hsl(0 0% 200%),
+        -2rem 20rem 10rem hsl(0 0% 200%),
+        0rem 30rem 20rem hsl(0 0% 200%),
+        2rem 30rem 20rem hsl(0 0% 200%),
+        4rem 20rem 20rem hsl(0 0% 200%),
+        5rem 20rem 10rem hsl(0 0% 200%),
+        6.5rem 20rem 10rem hsl(0 0% 200%),
+        7rem 20rem 10rem hsl(0 0% 200%),
+        8rem 20rem 10rem hsl(0 0% 200%);
+}
+
+.bugatti-exhaust-pipes-smoke-1,
+.bugatti-exhaust-pipes-smoke-2,
+.bugatti-exhaust-pipes-smoke-3,
+.bugatti-exhaust-pipes-smoke-4,
+.bugatti-exhaust-pipes-smoke-5,
+.bugatti-exhaust-pipes-smoke-6 {
+    box-shadow:
+        -14rem 1rem 10rem rgb(247, 223, 4),
+        9rem 1rem 8rem hsl(40 100% 50%),
+        -12rem 1rem 7.75rem hsl(35 100% 50%),
+        4rem 1rem 7.5rem hsl(35 100% 50%),
+        -14rem 1rem 9rem rgb(247, 223, 4),
+        9rem -1rem 7rem hsl(40 100% 50%),
+        -14rem 1rem 8rem hsl(35 100% 50%),
+        -5rem 1rem 8rem hsl(40 100% 50%),
+        -2rem 1rem 7rem hsl(35 100% 50%),
+        -10rem 0.5rem 7rem hsl(35 100% 50%),
+        -8rem 1rem 7rem hsl(35 100% 50%),
+        7rem -1rem 8rem rgb(247, 223, 4),
+        -4rem -1rem 7rem hsl(40 100% 50%),
+        -1rem -1rem 7rem hsl(35 100% 50%),
+        -5rem -1rem 7rem hsl(35 100% 50%),
+        3rem -1rem 8rem rgb(247, 223, 4);
+        transition: opacity 0.2s ease-in-out;
+        opacity: 0;
+}
+
+.bugatti-exhaust-pipes-smoke-1-exploded,
+.bugatti-exhaust-pipes-smoke-2-exploded,
+.bugatti-exhaust-pipes-smoke-3-exploded,
+.bugatti-exhaust-pipes-smoke-4-exploded,
+.bugatti-exhaust-pipes-smoke-5-exploded,
+.bugatti-exhaust-pipes-smoke-6-exploded {
+    animation: animatingBugattiAllExhaustPipesExplode 0.2s ease-in-out alternate;
+}
+
+@keyframes animatingBugattiAllExhaustPipesExplode {
+    50% {
+        opacity: 1;
+    }
+}
+
+.bugatti-front-light-bulbs-smoke-blows,
+.bugatti-bumper-light-bulbs-smoke-blows {
+    opacity: 0.9;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.bugatti-back-light-bulbs-smokes-1-blows,
+.bugatti-back-light-bulbs-smokes-2-blows,
+.bugatti-back-light-bulbs-smokes-3-blows,
+.bugatti-back-light-bulbs-smokes-4-blows,
+.bugatti-back-light-bulbs-smokes-5-blows,
+.bugatti-back-light-bulbs-smokes-6-blows {
+    opacity: 0.9;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.bugatti-front-bumper {
+
+    position: absolute;
+    top: 12rem;
+    left: 20.3%;
+    transform: translate(-50%, -50%) rotate(16deg);
+
+    width: 15rem;
+    height: 15rem;
+    background-color: hsl(0 0% 0%);
+    clip-path: polygon(36% 66.75%, 26% 45%, 1.2% 45%, 3.85% 58%, 1.7% 72.3%);
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+    /* opacity: 0; */
+}
+
+.bugatti-front-bumper-light {
+
+    position: absolute;
+    top: 11.55rem;
+    left: 14.5%;
+    transform: translate(-50%, -50%) rotate(10deg) scaleX(0.2);
+    transform-style: preserve-3d;
+
+    width: 2.5rem;
+    aspect-ratio: 1;
+
+    background: linear-gradient(to bottom right, hsl(0 0% 15%), hsl(0 0% 10%)),
+        linear-gradient(to bottom right, hsl(0 0% 25%), hsl(0 0% 20%));
+    box-shadow: 0 0 1rem hsl(0 0% 0%);
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out;
+
+    z-index: 1;
+    cursor: pointer;
+
+}
+
+.bugatti-front-bumper-light-on {
+    background: linear-gradient(to bottom right, hsl(0 0% 250%), hsl(0 0% 350%)),
+        linear-gradient(to bottom right, hsl(0 0% 400%), hsl(0 0% 350%));
+    box-shadow: 0 0 1rem hsl(0 0% 225%);
+    transition: all 0.5s ease-in-out;
+}
+
+.bugatti-front-bumper-light::before {
+
+    content: '';
+
+    position: absolute;
+    top: 50%;
+    left: 5.5rem;
+    transform: translate(-50%, -50%);
+    transform-style: preserve-3d;
+
+    width: 8rem;
+    height: 2.5rem;
+    background-color: hsl(40 100% 50%);
+
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-front-bumper-light::after {
+
+    content: '';
+
+    position: absolute;
+    top: 50%;
+    left: 3rem;
+    transform: translate(-50%, -50%);
+    transform-style: preserve-3d;
+
+    width: 16rem;
+    height: 2.55rem;
+    background-color: hsl(0 0% 0%);
+    transition: height 0.5s linear;
+    z-index: 1;
+}
+
+.bugatti-front-bumper-light-opened::after {
+    height: 0;
+    transition: height 0.1s linear;
+}
+
+@keyframes turningOnTheBugattiFrontLight {
+    50% {
+        background: linear-gradient(to bottom right, hsl(0 100% 50%), hsl(20 100% 50%)),
+            linear-gradient(to bottom right, hsl(40 100% 50%), hsl(40 100% 50%));
+
+    }
+}
+
+.bugatti-backward-tires,
+.bugatti-front-tires {
+    position: absolute;
+    top: 10.96rem;
+    left: 49.25%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28rem;
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-front-tires {
+    z-index: 1;
+}
+
+.bugatti-backward-tire,
+.bugatti-front-tire {
+    position: relative;
+    width: 11rem;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: hsl(0 0% 0%);
+    transition: var(--the-bugatti_transition);
+    /* animation: rotatingBugattiTires 5s linear 2s infinite; */
+}
+
+.start-rotating-bugatti-tires {
+    animation: rotatingBugattiTires 5s linear 2s infinite;
+}
+
+.stop-rotating-bugatti-tires {
+    animation: rotatingBugattiTires 9s linear 8.1s alternate;
+}
+
+@keyframes rotatingBugattiTires {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(-360deg);
+    }
+}
+
+.bugatti-tire-rims,
+.bugatti-tire-rims::after {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-tire-rims {
+    position: relative;
+    width: 7.75rem;
+    aspect-ratio: 1;
+    background-color: white;
+}
+
+.bugatti-tire-rims::after {
+    content: '';
+    position: absolute;
+    width: 6.7rem;
+    aspect-ratio: 1;
+    background: linear-gradient(to bottom right, hsl(36 100% 50%), hsl(40 100% 50%)),
+        linear-gradient(to bottom right, hsl(40 100% 50%), hsl(36 100% 50%));
+    border: 2px solid hsl(0 0% 0%);
+}
+
+.bugatti-tire-rims-line-1,
+.bugatti-tire-rims-line-2,
+.bugatti-tire-rims-line-3,
+.bugatti-tire-rims-line-4,
+.bugatti-tire-rims-line-5,
+.bugatti-tire-rims-line-6,
+.bugatti-tire-rims-line-7,
+.bugatti-tire-rims-line-8 {
+    position: absolute;
+    width: 29.25%;
+    height: 1.25rem;
+    background-color: hsl(0 0% 0%);
+    border-radius: 0.25rem;
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-tire-rims-line-1 {
+    top: 1.7rem;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.bugatti-tire-rims-line-2 {
+    top: 50%;
+    left: 78%;
+    transform: translate(-50%, -50%) rotate(180deg);
+}
+
+.bugatti-tire-rims-line-3 {
+    top: 50%;
+    left: 22%;
+    transform: translate(-50%, -50%) rotate(180deg);
+}
+
+.bugatti-tire-rims-line-4 {
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%) rotate(135deg);
+}
+
+.bugatti-tire-rims-line-5 {
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%) rotate(-135deg);
+}
+
+.bugatti-tire-rims-line-6 {
+    top: 5.38rem;
+    left: 30%;
+    transform: translate(-50%, -50%) rotate(135deg);
+}
+
+.bugatti-tire-rims-line-7 {
+    top: 5.38rem;
+    left: 70%;
+    transform: translate(-50%, -50%) rotate(-135deg);
+}
+
+.bugatti-tire-rims-line-8 {
+    top: 6.05rem;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.bugatti-tire-middle-point,
+.bugatti-tire-middle-point::after {
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.bugatti-tire-middle-point {
+    position: relative;
+    top: -20.5%;
+    left: 50%;
+    width: 2.25rem;
+    aspect-ratio: 1;
+    background-color: white;
+}
+
+.bugatti-tire-middle-point::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1.5rem;
+    aspect-ratio: 1;
+    background-color: black;
+}
+
+.bugatti-exhaust-pipes {
+
+    position: absolute;
+    top: 15.25rem;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+    transform-style: preserve-3d;
+    perspective: 100em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.bugatti-exhaust-pipe {
+
+    position: relative;
+    transform: scaleX(0.9) rotateY(50deg);
+    transform-style: preserve-3d;
+
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: hsl(40 100% 50%);
+    border-radius: 0.25rem;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.bugatti-exhaust-pipe::after {
+
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: hsl(0 0% 0%);
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+/* Styles For My Bugatti */
+
+/* Styles For Smoking Guy */
+
+.driver {
+    position: relative;
+    display: flex;
+    margin-top: -35%;
+    transform: translateX(64%);
+    z-index: -1;
+}
+
+.driver-with-bugatti {
+    opacity: 1;
+    visibility: visible;
+    transition: z-index 13s ease-in-out;
+    z-index: 3;
+}
+
+.driver-with-not-bugatti {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 4.5s ease-in-out;
+    /* z-index: -1; */
+}
+
+.driver::before,
+.driver::after {
+    content: "";
+    top: 10.25rem;
+    left: 4rem;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 23rem;
+    height: 20rem;
+    background-color: hsl(35 100% 50%);
+    transition: var(--car-transition);
+}
+
+.driver::before {
+    clip-path: polygon(34% 60%, 50% 60%, 50% 34%, 50% 32%, 50% 30%, 50% 30%,
+            50% 30%, 60% 30%, 60% 30%, 47% 22%, 43% 26%, 34% 30%);
+}
+
+.driver::after {
+    clip-path: polygon(66% 60%, 50% 60%, 50% 34%, 50% 32%, 50% 30%, 50% 30%, 50% 30%, 50% 30%, 50% 30%, 53% 22%, 57% 26%, 66% 30%);
+}
+
+.driver-wearing-objects {
+    position: absolute;
+    top: 9rem;
+    left: 4%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    transition: var(--the-bugatti_transition);
+    z-index: 1;
+}
+
+.driver-shirt {
+    display: flex;
+    gap: 2rem;
+}
+
+.driver-hand-belt-1,
+.driver-hand-belt-2 {
+    position: relative;
+    top: 6.2rem;
+    transform: translate(-50%, -50%);
+    width: 0.75rem;
+    height: 8rem;
+    background-color: hsl(0, 0%, 0%);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-hand-belt-1 {
+    left: -0.9rem;
+    border-top-left-radius: 35%;
+    border-top-right-radius: 35%;
+}
+
+.driver-shirt-buttons {
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-shirt-button {
+    position: relative;
+    width: 0.55rem;
+    aspect-ratio: 1;
+    background-color: hsl(0, 0%, 0%);
+    border-radius: 50%;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-shirt-button::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.3rem;
+    aspect-ratio: 1;
+    background-color: hsl(40, 100%, 50%);
+    border-radius: 50%;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-hand-belt-2 {
+    left: 1.6rem;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+}
+
+.driver-pant-belt {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 7.38rem;
+    height: 0.75rem;
+    background-color: hsl(0, 0%, 0%);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-pant-belt::before,
+.driver-pant-belt::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15%;
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-pant-belt::before {
+    left: 53%;
+    width: 0.5rem;
+    height: 0.15rem;
+    background-color: hsl(0, 0%, 0%);
+    z-index: 2;
+}
+
+.driver-pant-belt::after {
+    left: 50%;
+    width: 1rem;
+    height: 0.5rem;
+    background-color: hsl(40, 100%, 50%);
+    z-index: 1;
+}
+
+.driver-head::before,
+.driver-head::after {
+    content: "";
+    position: absolute;
+    transform: translate(-50%, -50%);
+    transition: var(--car-transition);
+    z-index: 1;
+}
+
+.driver-head {
+    position: relative;
+}
+
+.driver-head::before {
+    top: 0.75rem;
+    left: 4rem;
+    width: 5rem;
+    height: 4.25rem;
+    background-color: hsl(0, 0%, 0%);
+    border-top-left-radius: 5%;
+    border-top-right-radius: 30%;
+}
+
+.driver-head::after {
+    top: 0.1rem;
+    left: 3.8rem;
+    width: 3.5rem;
+    height: 2.25rem;
+    transform: translate(-50%, -50%) rotate(2.5deg);
+    background-color: hsl(0, 0%, 0%);
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 45%;
+}
+
+.driver-face {
+    position: relative;
+}
+
+.driver-face::before {
+    content: '';
+    position: absolute;
+    top: 2.5rem;
+    left: 4rem;
+    transform: translate(-50%, -50%);
+    width: 8.25rem;
+    height: 7.25rem;
+    background: linear-gradient(0deg, #ffaf87, #f5ae87);
+    clip-path: ellipse(25% 40% at 50% 50%);
+    z-index: 1;
+}
+
+.driver-eyebrows,
+.driver-eyes,
+.driver-ears {
+    display: flex;
+}
+
+.driver-eyebrow {
+    position: relative;
+    top: 1.5rem;
+    left: 2.42rem;
+    width: 1.6rem;
+    height: 0.7rem;
+    background: linear-gradient(0deg, #a35f3d, #8f593e);
+    clip-path: polygon(20% 80%, 40% 70%, 60% 70%, 80% 80%, 60% 90%, 40% 90%);
+    z-index: 4;
+}
+
+.driver-eye {
+    position: relative;
+    top: 0.4rem;
+    left: 2.42rem;
+    width: 1.6rem;
+    height: 2rem;
+    background-color: hsl(0, 0%, 100%);
+    clip-path: polygon(20% 80%, 40% 70%, 60% 70%, 80% 80%, 60% 90%, 40% 90%);
+    z-index: 1;
+}
+
+.driver-eye::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(0.46rem);
+    width: 0.25rem;
+    aspect-ratio: 1;
+    background-color: hsl(0, 0%, 0%);
+    border-radius: 50%;
+    z-index: 1;
+    animation: moveTheEye 10s linear infinite;
+    animation-delay: 0.2s;
+}
+
+@keyframes moveTheEye {
+
+    0%,
+    100% {
+        transform: translateX(-50%) translateY(0.46rem);
+    }
+
+    20% {
+        transform: translateX(-50%) translateY(0.38rem);
+    }
+
+    40% {
+        transform: translateX(-100%) translateY(0.46rem);
+    }
+
+    60% {
+        transform: translateX(-50%) translateY(0.5rem);
+    }
+
+    80% {
+        transform: translateX(0%) translateY(0.46rem);
+    }
+}
+
+.driver-nose {
+    position: absolute;
+    top: 3rem;
+    left: 4.12rem;
+    width: 0.15rem;
+    height: 0.8rem;
+    background: linear-gradient(0deg, #f7905c, #ce835e);
+    z-index: 1;
+}
+
+.driver-nose::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-72%, 0.45rem);
+    width: 0.7rem;
+    height: 0.45rem;
+    background: linear-gradient(0deg, #f7905c, #ce835e);
+    border-radius: 50%;
+}
+
+.driver-nose-holes {
+    position: absolute;
+    top: 0.66rem;
+    left: -0.47rem;
+    display: flex;
+    gap: 0.12rem;
+}
+
+.driver-nose-hole {
+    width: 0.26rem;
+    aspect-ratio: 1;
+    background-color: #f5ae87;
+    border-radius: 50%;
+    z-index: 2;
+}
+
+.driver-lips {
+    position: absolute;
+    top: 3.35rem;
+    left: 2.95rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.driver-lip {
+    position: relative;
+    transform: scaleY(1) scaleX(1);
+    transform-style: preserve-3d;
+    width: 2.1rem;
+    height: 1.25rem;
+    margin-bottom: -1.18rem;
+    clip-path: polygon(20% 80%, 40% 70%, 60% 70%, 80% 80%, 60% 90%, 40% 90%);
+    background: linear-gradient(0deg, #f7905c, #ce835e);
+    transition: var(--car-transition);
+
+    z-index: 1;
+}
+
+.driver-moving-lips {
+    animation:
+        movingLips 1.5s linear alternate forwards,
+        notMovingLips 1.5s linear 6s alternate forwards;
+}
+
+@keyframes movingLips {
+    0% {
+        transform: scaleY(1) scaleX(1);
+    }
+
+    100% {
+        transform: scaleY(1.5) scaleX(0.5);
+    }
+}
+
+@keyframes notMovingLips {
+    0% {
+        transform: scaleY(1.5) scaleX(0.5);
+    }
+
+    100% {
+        transform: scaleY(1) scaleX(1);
+    }
+}
+
+.driver-lip::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 200%);
+    width: 1rem;
+    height: 0.12rem;
+    background-color: #f5ae87;
+    z-index: 2;
+    opacity: 0;
+}
+
+.driver-ears {
+    position: absolute;
+    top: 68%;
+    left: 50%;
+    display: flex;
+    gap: 3.4rem;
+}
+
+.driver-ear {
+    position: relative;
+    width: 0.85rem;
+    height: 2rem;
+    background: linear-gradient(0deg, #ffaf87, #f5ae87);
+    z-index: 1;
+}
+
+.driver-ear:nth-child(1) {
+    left: -0.28rem;
+    clip-path: polygon(10% 10%, 40% 0%, 70% 10%, 90% 30%, 90% 60%, 70% 80%, 40% 90%, 10% 80%, 0% 60%, 0% 30%);
+}
+
+.driver-ear:nth-child(2) {
+    clip-path: polygon(90% 10%, 60% 0%, 30% 10%, 10% 30%, 10% 60%, 30% 80%, 60% 90%, 90% 80%, 100% 60%, 100% 30%);
+}
+
+.driver-ear::after {
+    content: '';
+    position: absolute;
+    top: 49%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 0.5rem;
+    height: 0.9rem;
+    background: linear-gradient(0deg, #f5ae87, #ce815a);
+    border-radius: 50%;
+    z-index: 1;
+    opacity: 0.6;
+}
+
+.driver-right-hand {
+
+    position: absolute;
+    top: 8.72rem;
+    left: -0.45rem;
+    transform: translate(-50%, -50%) rotate(-55deg);
+
+    width: 5rem;
+    height: 1.8rem;
+    background-color: hsl(35, 100%, 50%);
+    border-radius: 0.25rem;
+
+    transition: var(--car-transition);
+    z-index: -1;
+
+}
+
+.driver-right-hand::before {
+
+    content: '';
+
+    position: absolute;
+    top: 1.95rem;
+    left: -3.5rem;
+
+    transform: rotate(90deg);
+
+    width: 5.7rem;
+    height: 1.8rem;
+    background-color: hsl(35, 100%, 50%);
+    border-radius: 0.25rem;
+
+    transition: var(--car-transition);
+
+}
+
+.driver-right-hand::after {
+
+
+    content: '';
+
+    position: absolute;
+    top: 3rem;
+    left: -5.43rem;
+
+    transform: rotate(-90deg);
+
+    width: 10rem;
+    aspect-ratio: 1;
+    background: linear-gradient(0deg, #ffaf87, #f5ae87);
+
+    clip-path: polygon(55% 25%, 75% 40%, 75% 56%, 55% 56%, 35% 56%, 35% 50%, 55% 50%, 55% 44%, 35% 44%, 35% 38%, 62% 38%, 50% 30%);
+
+    transition: var(--robot-transition-for-all-parts);
+
+}
+
+.driver-left-hand {
+
+    position: absolute;
+    top: 8.72rem;
+    left: 8.46rem;
+    transform: translate(-50%, -50%) rotate(55deg);
+
+    width: 5rem;
+    height: 1.8rem;
+    background-color: hsl(35, 100%, 50%);
+    border-radius: 0.25rem;
+
+    transition: var(--car-transition);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.driver-left-hand::before {
+
+    content: '';
+
+    position: absolute;
+
+    top: 0.7rem;
+    left: -0.75rem;
+    transform: rotate(-10deg);
+
+    width: 5.7rem;
+    height: 1.8rem;
+    background-color: hsl(35, 100%, 50%);
+    border-radius: 0.25rem;
+
+    transition: var(--car-transition);
+
+    /* animation: 
+        movingLeftHand 5s linear alternate forwards,
+        notMovingLeftHand 5s linear 8s alternate forwards; */
+
+}
+
+.move-left-hand::before {
+    animation:
+        movingLeftHand 5s linear 2s alternate forwards,
+        notMovingLeftHand 5s linear 8s alternate forwards;
+}
+
+@keyframes movingLeftHand {
+    0% {
+        top: 0.7rem;
+        transform: rotate(-10deg);
+    }
+
+    100% {
+        top: 1.1rem;
+        transform: rotate(-20deg);
+    }
+}
+
+@keyframes notMovingLeftHand {
+    0% {
+        top: 1.1rem;
+        transform: rotate(-20deg);
+    }
+
+    100% {
+        top: 0.7rem;
+        transform: rotate(-10deg);
+    }
+}
+
+.driver-left-hand::after {
+
+    content: '';
+
+    position: absolute;
+
+    top: -3.32rem;
+    right: 2.35rem;
+    transform: rotate(-180deg);
+
+    width: 10rem;
+    aspect-ratio: 1;
+    background: linear-gradient(0deg, #ffaf87, #f5ae87);
+
+    clip-path: polygon(45% 25%, 25% 40%, 25% 56%, 45% 56%, 65% 56%, 65% 50%, 45% 50%, 45% 44%, 65% 44%, 65% 38%, 38% 38%, 50% 30%);
+
+    transition: var(--the-bugatti_transition);
+
+    /* animation: 
+        movingLeftHandFingers 5s linear alternate forwards,
+        notMovingLeftHandFingers 5s linear 8s alternate forwards; */
+
+}
+
+.move-left-hand-fingers::after {
+    animation:
+        movingLeftHandFingers 5s linear 2s alternate forwards,
+        notMovingLeftHandFingers 5s linear 8s alternate forwards;
+}
+
+@keyframes movingLeftHandFingers {
+    0% {
+        top: -3.32rem;
+        transform: rotate(-180deg);
+    }
+
+    100% {
+        top: -1.7rem;
+        transform: rotate(-198deg);
+    }
+}
+
+@keyframes notMovingLeftHandFingers {
+    0% {
+        top: -1.7rem;
+        transform: rotate(-198deg);
+    }
+
+    100% {
+        top: -3.32rem;
+        transform: rotate(-180deg);
+    }
+}
+
+.driver-cigarette {
+
+    position: absolute;
+
+    top: 2.1rem;
+    right: 6.74rem;
+    transform: translate(-50%, -50%) rotate(-75deg) scaleY(0.85);
+
+    transform-style: preserve-3d;
+
+    perspective: 100em;
+
+    width: 0.8rem;
+    height: 2rem;
+    background-color: hsl(20 100% 50%);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    transition: var(--the-bugatti_transition);
+
+    /* animation: 
+        movingCigarette 5s linear alternate forwards,
+        notMovingCigarette 5s linear 8s alternate forwards; */
+
+    z-index: 1;
+}
+
+.driver-smoking-cigarette {
+    animation:
+        movingCigarette 5s linear 2s alternate forwards,
+        notMovingCigarette 5s linear 8s alternate forwards;
+}
+
+@keyframes movingCigarette {
+    0% {
+        top: 2.1rem;
+        right: 6.74rem;
+        transform: translate(-50%, -50%) rotate(-75deg) scaleY(0.85);
+    }
+
+    100% {
+        top: 3.7rem;
+        right: 7.15rem;
+        transform: translate(-50%, -50%) rotate(-105deg) scaleY(0.85);
+    }
+}
+
+@keyframes notMovingCigarette {
+    0% {
+        top: 3.7rem;
+        right: 7.15rem;
+        transform: translate(-50%, -50%) rotate(-105deg) scaleY(0.85);
+    }
+
+    100% {
+        top: 2.1rem;
+        right: 6.74rem;
+        transform: translate(-50%, -50%) rotate(-75deg) scaleY(0.85);
+    }
+}
+
+.driver-cigarette::before {
+
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%) scaleY(0.2);
+
+    transform-style: preserve-3d;
+
+    width: 0.8rem;
+    aspect-ratio: 1;
+    background-color: hsl(0 0% 108%);
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-cigarette::after {
+
+    content: '';
+
+    position: absolute;
+    top: 1rem;
+
+    width: 0.8rem;
+    height: 1.5rem;
+    background-color: hsl(0 0% 100%);
+
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-cigarette-inside-smoke-area,
+.driver-cigarette-outside-smoke-area {
+    position: absolute;
+    transform: translate(-50%, -50%) scaleY(0.1);
+    transform-style: preserve-3d;
+    z-index: 1;
+}
+
+.driver-cigarette-inside-smoke-area {
+    top: 2.5rem;
+    left: 6.5rem;
+}
+
+.driver-cigarette-outside-smoke-area {
+    top: 7rem;
+    left: 7rem;
+}
+
+.driver-cigarette-inside-smokes {
+    top: 50%;
+    left: 50%;
+    transform: rotate(75deg);
+}
+
+.driver-cigarette-outside-smokes {
+    top: 50%;
+    left: 50%;
+    transform: rotate(-100deg);
+}
+
+.driver-cigarette-inside-smokes,
+.driver-cigarette-outside-smokes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 0.25rem;
+    height: 2.75rem;
+    transition: all 1.5s ease-in-out;
+}
+
+.driver-cigarette-inside-smoke {
+    position: relative;
+    width: 1.25rem;
+    height: 5rem;
+    transition: all 1.5s ease-in-out;
+}
+
+.driver-cigarette-outside-smoke {
+    position: relative;
+    height: 5rem;
+    width: 1.25rem;
+    box-shadow:
+        -14rem 1rem 10rem rgb(255, 255, 255),
+        9rem 1rem 8rem rgb(175, 175, 175),
+        -12rem 1rem 7.75rem rgb(200, 200, 200),
+        4rem 1rem 7.5rem rgb(200, 200, 200),
+        -14rem 1rem 9rem rgb(255, 255, 255),
+        9rem -1rem 7rem rgb(175, 175, 175),
+        -14rem 1rem 8rem rgb(200, 200, 200),
+        -5rem 1rem 8rem rgb(175, 175, 175),
+        -2rem 1rem 7rem rgb(200, 200, 200),
+        -10rem 0.5rem 7rem rgb(200, 200, 200),
+        -8rem 1rem 7rem rgb(200, 200, 200),
+        7rem -1rem 8rem rgb(255, 255, 255),
+        -4rem -1rem 7rem rgb(175, 175, 175),
+        -1rem -1rem 7rem rgb(200, 200, 200),
+        -5rem -1rem 7rem rgb(200, 200, 200),
+        -14rem 1rem 10rem rgb(255, 255, 255),
+        9rem 1rem 8rem rgb(175, 175, 175),
+        -14rem 1rem 9rem rgb(255, 255, 255),
+        9rem -1rem 7rem rgb(175, 175, 175),
+        -5rem 1rem 8rem rgb(175, 175, 175),
+        -2rem 1rem 7rem rgb(200, 200, 200),
+        -10rem 0.5rem 7rem rgb(200, 200, 200),
+        -8rem 1rem 7rem rgb(200, 200, 200),
+        7rem -1rem 8rem rgb(255, 255, 255),
+        -4rem -1rem 7rem rgb(175, 175, 175),
+        -1rem -1rem 7rem rgb(200, 200, 200),
+        -5rem -1rem 7rem rgb(200, 200, 200),
+        -14rem 1rem 10rem rgb(255, 255, 255),
+        9rem 1rem 8rem rgb(175, 175, 175),
+        -14rem 1rem 9rem rgb(255, 255, 255),
+        9rem -1rem 7rem rgb(175, 175, 175),
+        -2rem 1rem 7rem rgb(200, 200, 200),
+        -10rem 0.5rem 7rem rgb(200, 200, 200),
+        -4rem -1rem 7rem rgb(175, 175, 175),
+        -1rem -1rem 7rem rgb(200, 200, 200),
+        3rem -1rem 8rem rgb(255, 255, 255);
+    transition: all 1.5s ease-in-out;
+    animation:
+        driverExhalingCigarette 3s linear infinite forwards,
+        driverCigaretteSmokeDisappeared 3s linear infinite forwards;
+}
+
+.driver-enhaling-cigarette {
+    animation:
+        driverExhalingCigarette 1.7s linear 3.5s alternate forwards,
+        driverCigaretteSmokeDisappeared 2s linear 5.7s alternate forwards;
+}
+
+@keyframes driverExhalingCigarette {
+    0% {
+        width: 0.125rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255);
+    }
+
+    10% {
+        width: 0.25rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200);
+        margin-left: 1rem;
+    }
+
+    20% {
+        width: 0.525rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255);
+        margin-left: 2rem;
+    }
+
+    30% {
+        width: 0.375rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200);
+        margin-left: 3rem;
+    }
+
+    40% {
+        width: 0.5rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200);
+        margin-left: 4rem;
+    }
+
+    50% {
+        width: 0.625rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175);
+        margin-left: 5rem;
+    }
+
+    60% {
+        width: 0.75rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        margin-left: 6rem;
+    }
+
+    70% {
+        width: 0.875rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        margin-left: 7rem;
+    }
+
+    80% {
+        width: 1rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        margin-left: 8rem;
+    }
+
+    90% {
+        width: 1.125rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        margin-left: 9rem;
+    }
+
+    100% {
+        width: 1.25rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        margin-left: 10rem;
+    }
+}
+
+@keyframes driverCigaretteSmokeDisappeared {
+    0% {
+        width: 1.25rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        opacity: 0;
+    }
+
+    10% {
+        width: 0.25rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200);
+        opacity: 0.1;
+    }
+
+    20% {
+        width: 1.125rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        opacity: 0.2;
+    }
+
+    30% {
+        width: 1rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        opacity: 0.3;
+    }
+
+    40% {
+        width: 0.875rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        opacity: 0.4;
+    }
+
+    50% {
+        width: 0.75rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175),
+            -1rem -1rem 7rem rgb(200, 200, 200),
+            -5rem -1rem 7rem rgb(200, 200, 200),
+            3rem -1rem 8rem rgb(255, 255, 255);
+        opacity: 0.5;
+    }
+
+    60% {
+        width: 0.625rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200),
+            -10rem 0.5rem 7rem rgb(200, 200, 200),
+            -8rem 1rem 7rem rgb(200, 200, 200),
+            7rem -1rem 8rem rgb(255, 255, 255),
+            -4rem -1rem 7rem rgb(175, 175, 175);
+        opacity: 0.6;
+    }
+
+    70% {
+        width: 0.5rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200),
+            -5rem 1rem 8rem rgb(175, 175, 175),
+            -2rem 1rem 7rem rgb(200, 200, 200);
+        opacity: 0.7;
+    }
+
+    80% {
+        width: 0.375rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255),
+            9rem -1rem 7rem rgb(175, 175, 175),
+            -14rem 1rem 8rem rgb(200, 200, 200);
+        opacity: 0.8;
+    }
+
+    90% {
+        width: 0.525rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255),
+            9rem 1rem 8rem rgb(175, 175, 175),
+            -12rem 1rem 7.75rem rgb(200, 200, 200),
+            4rem 1rem 7.5rem rgb(200, 200, 200),
+            -14rem 1rem 9rem rgb(255, 255, 255);
+        opacity: 0.9;
+    }
+
+    100% {
+        width: 0.125rem;
+        box-shadow:
+            -14rem 1rem 10rem rgb(255, 255, 255);
+        opacity: 1;
+    }
+}
+
+.driver-cigarette-burn-part {
+    position: relative;
+    top: 97%;
+    left: 50%;
+    transform: translate(-50%, -50%) scaleY(0.1);
+
+    transform-style: preserve-3d;
+
+    width: 0.8rem;
+    aspect-ratio: 1;
+    background: linear-gradient(90deg, hsl(10 100% 58%), hsl(20 100% 58%));
+    border-radius: 50%;
+
+    transition: var(--the-bugatti_transition);
+}
+
+.driver-legs,
+.driver-shoes,
+.driver-shoes-heels {
+    position: relative;
+}
+
+.driver-legs::after {
+    content: "";
+    top: 17.05rem;
+    left: 4rem;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 7.4rem;
+    height: 15rem;
+    background-color: hsl(35 100% 50%);
+    clip-path: polygon(0 0, 0% 20%, 16% 100%, 25% 100%, 50% 50%, 75% 100%, 85% 100%, 70% 48%, 84% 100%, 100% 20%, 100% 0, 50% 0);
+    transition: var(--car-transition);
+}
+
+.driver-shoes::before,
+.driver-shoes::after {
+
+    --robot-legs-before-after-clip-path: ellipse(25% 40% at 50% 50%);
+
+    content: '';
+
+    position: absolute;
+    top: 22.4rem;
+
+    width: 5.5rem;
+    height: 4.8rem;
+    clip-path: var(--robot-legs-before-after-clip-path);
+    background-color: hsl(0 0% 0%);
+
+    transition: var(--robot-transition-for-all-parts);
+
+}
+
+.driver-shoes::before {
+
+    --robot-legs-before-transform: rotate(110deg);
+
+    left: 4.7rem;
+    transform: var(--robot-legs-before-transform);
+
+}
+
+.driver-shoes::after {
+
+    --robot-legs-after-transform: rotate(-110deg);
+
+    right: -0.12rem;
+    transform: var(--robot-legs-after-transform);
+
+}
+
+.driver-shoes-heels::before,
+.driver-shoes-heels::after {
+
+    content: '';
+
+    position: absolute;
+    top: 25.3rem;
+
+    transform: translate(-50%, -50%);
+
+    width: 1.25rem;
+    aspect-ratio: 1;
+
+    background-color: hsl(0 0% 2%);
+
+    border-radius: 0.25rem;
+
+    transition: var(--robot-transition-for-all-parts);
+    /* animation: givingPowerToMyRobot 5s linear infinite; */
+
+    opacity: 1;
+    visibility: visible;
+
+    z-index: -1;
+
+}
+
+.driver-shoes-heels::before {
+    left: 56%;
+}
+
+.driver-shoes-heels::after {
+    right: -133%;
+}
+
+/* Styles For Smoking Guy */
